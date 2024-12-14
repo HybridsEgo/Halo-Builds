@@ -38,18 +38,21 @@
 | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
 | 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
 | 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
-| 236112.22.12.01.1408-2.hifltc | Release | | None |
-| 238744.23.01.19.2003-2.hifltc | Release | | None |
-| 240518.23.02.22.2011-0.hifltb | Release | | Season 3 |
-| 241251.23.03.08.1725-3.hifltb | Release | | Season 3 QoL |
-| 243134.23.04.11.1534-4.hifltc | Release | | None |
-| 245613.23.06.01.1708-0.hiflta | Release | | Season 4 |
-| 247792.23.07.21.2003-1.hi_1_4_1 | Release | | None |
-| 250367.23.09.17.1802-1.hi_1_5_0 | Release | | None |
-| 252948.23.11.17.1028-6.hi_1_5_1 | Release | | None | 
-| 259737.24.09.19.0944-3.hi_1_8_0 | Release | | Easy anti-cheat added |
-| 260506.24.10.23.1155-4.hi_1_9_0 | Release | | None |
-| 261084.24.11.18.1712-0.hi_1_9_0 | Release | | Operation: snowbound update |
+| 236112.22.12.01.1408-2.hifltc | Release | *12-1-2022 | None |
+| 238744.23.01.19.2003-2.hifltc | Release | *1-19-2023| None |
+| 240518.23.02.22.2011-0.hifltb | Release | *2-22-2023 | Season 3 |
+| 241251.23.03.08.1725-3.hifltb | Release | *3-8-2023 | Season 3 QoL |
+| 243134.23.04.11.1534-4.hifltc | Release | *4-11-2023 | None |
+| 245613.23.06.01.1708-0.hiflta | Release | *6-1-2023 | Season 4 |
+| 247792.23.07.21.2003-1.hi_1_4_1 | Release | *7-21-2023 | None |
+| 250367.23.09.17.1802-1.hi_1_5_0 | Release | *9-17-2023 | None |
+| 252948.23.11.17.1028-6.hi_1_5_1 | Release | *11-17-2023 | None | 
+| 259737.24.09.19.0944-3.hi_1_8_0 | Release | *9-19-2024 | Easy anti-cheat added |
+| 260506.24.10.23.1155-4.hi_1_9_0 | Release | *10-23-2024 | None |
+| 261084.24.11.18.1712-0.hi_1_9_0 | Release | *11-18-2024 | Operation: snowbound update |
+
+> [!IMPORTANT]
+> Dates with the '*' prefix (ex: *12-31-2020) are assumptions based upon the build numbers and not the actual release time and could potentially be months apart.
 
 
 # Halo: Reach
@@ -60,25 +63,9 @@
 | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Feb_19,_2010_prototype)) | Private Multiplayer Pre-Alpha |
 | 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Mar_25,_2010_Multiplayer_Prototype)) | Private Multiplayer Pre-Beta |
 | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Apr_9,_2010_Multiplayer_Prototype)) | Public Multiplayer Beta |
-| 11860.10.07.24.0147 | Cache build | 7-24-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Jul_24,_2010_prototype)) | Postdates the release by 18 minutes |
-|   | Cache build | 10-25-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Oct_25,_2010_prototype)) | Rebuilt Cache Build |
+| *11860.10.07.24.0147 | Cache build | 7-24-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Jul_24,_2010_prototype)) | Postdates the release by 18 minutes |
+| *11860.10.07.24.0147  | Cache build | 10-25-2010 | [Link](https://hiddenpalace.org/Halo:_Reach_(Oct_25,_2010_prototype)) | Rebuilt Cache Build |
 | 11883.10.10.25.1227 | Tags build | 7-7-2011 | [Link](https://www.obscuregamers.com/threads/halo-reach-tags-build-cache-build-halo-4-tags-cache-builds.4035/) | dlc 1 ship tag test |
-
-## **Title updates**
-> | MediaId | Base Version | Notes |
-> | ------- | ------------ | ----- |
-> | 046D17EE | 00000002 | French |
-> | 05059954 | 00000011 | None |
-> | 25148C14 | 00000007 | None |
-> | 31D86FE7 | 0000000D | None |
-> | 42D18BEE | 00000009 | Spanish (Mexican) |
-> | 566C10D3 | 00000001 | English & Chinese (Traditional) |
-> | 56D002AE | 00000004 | Italian |
-> | 585FC053 | 0000000B | None |
-> | 5B7A8B59 | 00000013 | None |
-> | 61F099B6 | 00000003 | German |
-> | 63681F4C | 0000000A | None |
-> | 00394009 | 00000067 | CEA |
 
 ## Other release builds
 | Build | Type | Date | Notes | MediaId |
@@ -97,8 +84,24 @@
 | 11860.10.07.24.0147.omaha_relea | Partner Discs | 9-14-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | 11860.10.07.24.0147.omaha_relea | Partner Discs | 9-14-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
-| 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
+| *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
+
+## **Title updates**
+> | MediaId | Base Version | Link | Notes |
+> | ------- | ------------ | ---- | ----- |
+> | 046D17EE | 00000002 | [Link]()| French |
+> | 05059954 | 00000011 | [Link]()| None |
+> | 25148C14 | 00000007 | [Link]()| None |
+> | 31D86FE7 | 0000000D | [Link]()| None |
+> | 42D18BEE | 00000009 | [Link]()| Spanish (Mexican) |
+> | 566C10D3 | 00000001 | [Link]()| English & Chinese (Traditional) |
+> | 56D002AE | 00000004 | [Link]()| Italian |
+> | 585FC053 | 0000000B | [Link]()| None |
+> | 5B7A8B59 | 00000013 | [Link]()| None |
+> | 61F099B6 | 00000003 | [Link]()| German |
+> | 63681F4C | 0000000A | [Link]()| None |
+> | 00394009 | 00000067 | [Link]()| CEA |
 
 # Halo 3
 
