@@ -51,7 +51,6 @@
 | 260506.24.10.23.1155-4.hi_1_9_0 | Release | *10-23-2024 | None |
 | 261084.24.11.18.1712-0.hi_1_9_0 | Release | *11-18-2024 | Operation: snowbound update |
 
-> [!IMPORTANT]
 > Dates with the '*' prefix (ex: *12-31-2020) are assumptions based upon the build numbers and not the actual release time and could potentially be months apart.
 
 
