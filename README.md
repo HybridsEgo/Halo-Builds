@@ -1,18 +1,17 @@
 # Halo: The Master Chief Collection
 
-## Flights
-| Build | Version | Date | Notes |
-| ----- | ------- | ---- | ----- |
-| 2019.06.24.47037.2-Nightly | 1.887.0.0 | 6-28-2019 | HR |
-| 2019.08.20.56885.3-Nightly-Release | 1.1035.0.0 | 8-20-2019 | HR |
-| 2020.04.15.81829.4-Nightly-Release | 1.1477.0.0 | 4-15-2020 | CE + H2
-| 2020.06.10.89331.2-Nightly-Ring1 | 1.1629.0.0 | 6-10-2020 | H3 |
-| 2020.06.21.91052.2-Nightly-Release | 1.1658.0.0 | 6-21-2020 | H3 |
-| 2020.10.16.103257.1-Nightly-Ring1 | 1.1896.0.0 | 10-16-2020 | H4 |
-| 2020.10.29.105068.1-Nightly-Release | 1.1930.0.0 | 10-29-2020 | HR + H4 |
-| 2021.02.25.115760.2-Nightly-Ring1 | 1.2159.0.0 | 2-25-2021 | HR + H3 |
-| 2021.05.20.126480.1-Nightly-Ring1 | 1.2341.0.0 | 5-20-2021 | CE + H3 + H4 |
-| 2021.08.31.136483.3-Nightly-Ring1 | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
+| Build | Type | Version | Date | Notes |
+| ----- | ---- | ------- | ---- | ----- |
+| 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
+| 2019.08.20.56885.3-Nightly-Release | Flight | 1.1035.0.0 | 8-20-2019 | HR |
+| 2020.04.15.81829.4-Nightly-Release | Flight | 1.1477.0.0 | 4-15-2020 | CE + H2
+| 2020.06.10.89331.2-Nightly-Ring1 | Flight | 1.1629.0.0 | 6-10-2020 | H3 |
+| 2020.06.21.91052.2-Nightly-Release | Flight | 1.1658.0.0 | 6-21-2020 | H3 |
+| 2020.10.16.103257.1-Nightly-Ring1 | Flight | 1.1896.0.0 | 10-16-2020 | H4 |
+| 2020.10.29.105068.1-Nightly-Release | Flight | 1.1930.0.0 | 10-29-2020 | HR + H4 |
+| 2021.02.25.115760.2-Nightly-Ring1 | Flight | 1.2159.0.0 | 2-25-2021 | HR + H3 |
+| 2021.05.20.126480.1-Nightly-Ring1 | Flight | 1.2341.0.0 | 5-20-2021 | CE + H3 + H4 |
+| 2021.08.31.136483.3-Nightly-Ring1 | Flight | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
 
 # Halo Infinite
 | Build | Type | Date | Notes |
