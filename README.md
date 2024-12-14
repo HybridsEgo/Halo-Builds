@@ -1,5 +1,59 @@
-# Halo: Reach Xbox 360
-Created for my irrational fear of losing all of this in the future.
+# Halo: The Master Chief Collection
+
+## Flights
+| Build | Version | Date | Notes |
+| ----- | ------- | ---- | ----- |
+| 2019.06.24.47037.2-Nightly | 1.887.0.0 | 6-28-2019 | HR |
+| 2019.08.20.56885.3-Nightly-Release | 1.1035.0.0 | 8-20-2019 | HR |
+| 2020.04.15.81829.4-Nightly-Release | 1.1477.0.0 | 4-15-2020 | CE + H2
+| 2020.06.10.89331.2-Nightly-Ring1 | 1.1629.0.0 | 6-10-2020 | H3 |
+| 2020.06.21.91052.2-Nightly-Release | 1.1658.0.0 | 6-21-2020 | H3 |
+| 2020.10.16.103257.1-Nightly-Ring1 | 1.1896.0.0 | 10-16-2020 | H4 |
+| 2020.10.29.105068.1-Nightly-Release | 1.1930.0.0 | 10-29-2020 | HR + H4 |
+| 2021.02.25.115760.2-Nightly-Ring1 | 1.2159.0.0 | 2-25-2021 | HR + H3 |
+| 2021.05.20.126480.1-Nightly-Ring1 | 1.2341.0.0 | 5-20-2021 | CE + H3 + H4 |
+| 2021.08.31.136483.3-Nightly-Ring1 | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
+
+# Halo Infinite
+| Build | Type | Date | Notes |
+| ----- | ---- | ---- | ----- |
+| 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
+| 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | MGS Test App 6 Tech Preview |
+| 204822.21.10.07.1331-0.P4Main | *E3 Lumu | 10-7-2021 | *Allegedly a developer E3 build that was accidentally uploaded |
+| 207196.21.11.11.1058-0.hifltb | Beta | 11-15-2021 | 20th anniversary beta |
+| 207500.21.11.16.1450-1.hifltb | Beta | 11-19-2021 | 20th anniversary beta fix |
+| 207952.21.11.23.0826-1.hiflta | Release | 12-8-2021 | Campaign release |
+| 209048.21.12.09.1546-0.hirel | Release | 12-14-2021 | Playlist & Service update |
+| 210921.22.01.10.1706-0.hirel | Release | 1-19-2022 | BTB Playlist fix attempt 1 |
+| 211755.22.01.23.0549-0.hirel | Release | 2-3-2022 | BTB Playlist fix attempt 2 |
+| 212835.22.02.08.1755-0.hifltb | Release | 2-8-2022 | None |
+| 216272.22.03.24.1336-0.hirel | Release | 4-5-2022 | Mid-Season update |
+| 218539.22.04.22.1825-0.hiflta | Release | 5-4-2022 | Season 2 Tricking & Speedruning purge |
+| 220499.22.05.17.1752-0.hirel | Release | 5-25-2022 | Trick Jump & Speedrun restoration patch
+| 222249.22.06.08.1730-0.hirc | Release | 6-14-2022 | Drop-pod update |
+| 223411.22.06.21.1557-0.hirc | Release | 6-29-2022 | Recharge map exploit patch |
+| 224712.22.07.07.1218-3.hiflta | Flight | 7-15-2022 | Coop campaign IvoryDuck1194 branch test |
+| 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Cross-core visors update |
+| 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Half filesize (same build number as previous build) |
+| 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | October 25th patch |
+| 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
+| 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
+| 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
+| 236112.22.12.01.1408-2.hifltc | Release | | None |
+| 238744.23.01.19.2003-2.hifltc | Release | | None |
+| 240518.23.02.22.2011-0.hifltb | Release | | Season 3 |
+| 241251.23.03.08.1725-3.hifltb | Release | | Season 3 QoL |
+| 243134.23.04.11.1534-4.hifltc | Release | | None |
+| 245613.23.06.01.1708-0.hiflta | Release | | Season 4 |
+| 247792.23.07.21.2003-1.hi_1_4_1 | Release | | None |
+| 250367.23.09.17.1802-1.hi_1_5_0 | Release | | None |
+| 252948.23.11.17.1028-6.hi_1_5_1 | Release | | None | 
+| 259737.24.09.19.0944-3.hi_1_8_0 | Release | | Easy anti-cheat added |
+| 260506.24.10.23.1155-4.hi_1_9_0 | Release | | None |
+| 261084.24.11.18.1712-0.hi_1_9_0 | Release | | Operation: snowbound update |
+
+
+# Halo: Reach
 
 ## Pre/post release builds
 | Build | Type | Date | Link | Notes |
@@ -46,3 +100,11 @@ Created for my irrational fear of losing all of this in the future.
 | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
+
+# Halo 3
+
+# Halo 3: ODST
+
+# Halo 4
+
+
