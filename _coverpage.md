@@ -1,10 +1,9 @@
 <!-- _coverpage.md -->
-1
-2
-3
-4
-5
-6
-7
-8
-9
+![logo](_media/logo.png)
+
+# Halo Builds
+
+
+[MCC](#halo-the-master-chief-collection)
+[Infinite](#halo-infinite)
+[Xbox 360](#xbox-360)
