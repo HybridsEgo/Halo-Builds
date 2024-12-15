@@ -1,12 +1,12 @@
-- Modern
+- Modern Builds
  
   - [Halo The Master Chief Collection](#halo-the-master-chief-collection)
   - [Halo Infinite](#halo-infinite)
   - [Halo Wars 2](#)
   - [Halo 5](#halo-5)
-  - [Halo Fireteam Raven](#)
+  - [Halo Fireteam Raven](#halo-fireteam-raven)
 
-- Legacy
+- Legacy Builds
   
   - Xbox 360
     
@@ -14,7 +14,7 @@
     - [ - Halo 3](#halo-3)
     - [ - Halo 3 ODST](#halo-3-odst)
     - [ - Halo 4](#halo-4)
-    - [ - Halo Wars](#)
+    - [ - Halo Wars](#halo-wars)
   
   - Xbox
     - [ - Halo CE](#)

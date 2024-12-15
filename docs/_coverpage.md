@@ -5,5 +5,5 @@
 
 </small> Who doesn't like looking at build numbers? </small>
 
-[Modern Halo](#halo-the-master-chief-collection)
-[Legacy Halo](#xbox-360)
+[Modern Builds](#halo-the-master-chief-collection)
+[Legacy Builds](#xbox-360)
