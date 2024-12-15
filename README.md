@@ -142,7 +142,7 @@
 | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 
-### **Title updates**
+### Title updates
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 046D17EE | 00000002 | [Link]()| French |
