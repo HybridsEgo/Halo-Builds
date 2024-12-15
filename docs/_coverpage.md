@@ -2,8 +2,7 @@
 ![logo](_media/logo.png)
 
 # Halo Builds
+> Who doesn't like build numbers?
 
-
-[MCC](#halo-the-master-chief-collection)
-[Infinite](#halo-infinite)
+[Halo Infinite](halo-infinite)
 [Xbox 360](#xbox-360)
