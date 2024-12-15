@@ -1,2 +1,2 @@
 
-*Updated periodically...*
+</small>*Updated periodically...*</small>
