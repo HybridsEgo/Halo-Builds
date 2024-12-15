@@ -20,6 +20,6 @@
     - [ - Halo CE](#)
     - [ - Halo 2](#)
 
-  - Other
-    - [ - Halo Online](#)
+  - [Other](#other)
+    - [ - Halo Online](#halo-online)
     - [ - Halo 2 Vista](#)
