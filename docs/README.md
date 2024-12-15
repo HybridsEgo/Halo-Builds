@@ -1,4 +1,5 @@
-# Halo: The Master Chief Collection
+# Modern Halo
+## Halo: The Master Chief Collection
 > Missing almost all of the release versions... :(
 
 | Build | Type | Version | Date | Notes |
@@ -26,7 +27,7 @@
 | 2024.01.03.177898.1-Release | Release | 1.3385.0.0 | 1-3-2024 | None |
 > Probably missing more than what is listed here...
 
-# Halo Infinite
+## Halo Infinite
 > Missing some builds from around ~11-17-2023 to ~9-19-2024...
 
 | Build | Type | Date | Notes |
@@ -53,20 +54,36 @@
 | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
 | 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
 | 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
-| 236112.22.12.01.1408-2.hifltc | Release | *12-1-2022 | None |
-| 238744.23.01.19.2003-2.hifltc | Release | *1-19-2023| None |
-| 240518.23.02.22.2011-0.hifltb | Release | *2-22-2023 | Season 3 |
-| 241251.23.03.08.1725-3.hifltb | Release | *3-8-2023 | Season 3 QoL |
-| 243134.23.04.11.1534-4.hifltc | Release | *4-11-2023 | None |
-| 245613.23.06.01.1708-0.hiflta | Release | *6-1-2023 | Season 4 |
-| 247792.23.07.21.2003-1.hi_1_4_1 | Release | *7-21-2023 | None |
-| 250367.23.09.17.1802-1.hi_1_5_0 | Release | *9-17-2023 | None |
-| 252948.23.11.17.1028-6.hi_1_5_1 | Release | *11-17-2023 | None | 
-| 259737.24.09.19.0944-3.hi_1_8_0 | Release | *9-19-2024 | Easy anti-cheat added |
-| 260506.24.10.23.1155-4.hi_1_9_0 | Release | *10-23-2024 | None |
-| 261084.24.11.18.1712-0.hi_1_9_0 | Release | *11-18-2024 | Operation: snowbound update |
+| 236112.22.12.01.1408-2.hifltc | Release | 12-1-2022 | None |
+| 238744.23.01.19.2003-2.hifltc | Release | 1-19-2023| None |
+| 240518.23.02.22.2011-0.hifltb | Release | 2-22-2023 | Season 3 |
+| 241251.23.03.08.1725-3.hifltb | Release | 3-8-2023 | Season 3 QoL |
+| 243134.23.04.11.1534-4.hifltc | Release | 4-11-2023 | None |
+| 245613.23.06.01.1708-0.hiflta | Release | 6-1-2023 | Season 4 |
+| 247792.23.07.21.2003-1.hi_1_4_1 | Release | 7-21-2023 | None |
+| 250367.23.09.17.1802-1.hi_1_5_0 | Release | 9-17-2023 | None |
+| 252948.23.11.17.1028-6.hi_1_5_1 | Release | 11-17-2023 | None | 
+| 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
+| 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
+| 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
 
-> Dates with the '*' prefix (ex: *12-31-2020) are assumptions based upon the build numbers and not the actual release time and could potentially be months apart.
+## Halo 5
+| Build | Type | Version | Date | Notes |
+| ----- | ---- | ------- | ---- | ----- |
+| 66188.15.08.03.1256-0.main | Delta | 1.1.653.0 | 8-3-2015 | None |
+| 68365.15.08.15.1546-0.main | Delta | 1.1.2830.0 | 8-15-2015 | None |
+| 69046.15.08.19.1949-0.main | Delta | 1.1.3511.0 | 8-19-2015 | None |
+| 70081.15.08.26.1149-0.main | Delta | 1.1.4546.0 | 8-26-2015 | None |
+| 71044.15.09.01.2127-1.main | Delta | 1.1.5509.1 | 9-1-2015 | None |
+| 71991.15.09.09.2310-1.main | Delta | 1.1.6456.1 | 9-9-2015 | None |
+| 72604.15.09.15.1822-1.main | Delta | 1.1.7069.1 | 9-15-2015 | None |
+| 73163.15.09.21.1904-0.main | Delta | 1.1.7628.0 | 9-21-2015 | None |
+| 74061.15.09.30.1731-0.main | Delta | 1.1.8526.0 | 9-30-2015 | None |
+| 74510.15.10.06.1304-3.main | Delta | 1.1.8975.3 | 10-6-2015 | None |
+| 74973.15.10.13.1456-0.main | Delta | 1.1.9438.0 | 10-13-2015 | None |
+| 74986.15.10.13.1727-0.main | Delta | 1.1.9451.0 | 10-13-2015 | None |
+| 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
+| Untracked | Delta | 1.1.11480.2 | N/A | None |
 
 # Xbox 360
 ## Halo: Reach

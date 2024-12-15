@@ -3,6 +3,7 @@
   - [Halo The Master Chief Collection](#halo-the-master-chief-collection)
   - [Halo Infinite](#halo-infinite)
   - [Halo Wars 2](#)
+  - [Halo 5](#)
   - [Halo Fireteam Raven](#)
 
 - Legacy
@@ -12,8 +13,8 @@
     - [ - Halo: Reach](#halo-reach)
     - [ - Halo 3](#halo-3)
     - [ - Halo 3 ODST](#halo-3-odst)
-    - [- Halo 4](#halo-4)
-    - [- Halo Wars]()
+    - [ - Halo 4](#halo-4)
+    - [ - Halo Wars]()
   
   - Xbox
     - [ - Halo CE]()
