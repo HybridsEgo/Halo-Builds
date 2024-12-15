@@ -13,7 +13,7 @@
 | 2020.10.29.105068.1-Nightly-Release | Flight | 1.1930.0.0 | 10-29-2020 | HR + H4 |
 | MISSING 3 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.02.25.115760.2-Nightly-Ring1 | Flight | 1.2159.0.0 | 2-25-2021 | HR + H3 |
-| MISSING 1 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
+| MISSING 1 BUILD BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.05.20.126480.1-Nightly-Ring1 | Flight | 1.2341.0.0 | 5-20-2021 | CE + H3 + H4 |
 | MISSING 3 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.07.16.132181.1-Nightly-Release | Release | 1.2448.0.0 | 7-16-2021 | None
