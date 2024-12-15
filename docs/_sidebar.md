@@ -8,7 +8,7 @@
 
 - Legacy Builds
   
-  - Xbox 360
+  - [Xbox 360](#xbox-360)
     
     - [ - Halo: Reach](#halo-reach)
     - [ - Halo 3](#halo-3)

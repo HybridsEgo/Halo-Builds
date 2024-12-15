@@ -85,6 +85,10 @@
 | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
 | Untracked | Delta | 1.1.11480.2 | N/A | None |
 
+## Halo Fireteam Raven
+| Build | Type | Date | Notes | 
+| ----- | ---- | ---- | ----- |
+
 # Xbox 360
 ## Halo: Reach
 | Build | Type | Date | Notes | MediaId |
@@ -285,3 +289,32 @@
 ### Title updates
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
+
+## Halo wars
+| Build | Type | Date | Notes | MediaId |
+| ----- | ---- | ---- | ----- | ------- |
+
+
+# Other
+## Halo Online
+| Build | Type | Date | Notes |
+| ----- | ---- | ---- | ----- |
+| 1.106708 | cert_ms23 | 3-20-2015 | Used by Eldewrito |
+| 1.155080 | cert_ms23 | 4-10-2015 | None |
+| 1.171227 | cert_ms23 | 4-17-2015 | None |
+| 1.235640 | cert_ms25 | 4-21-2015 | None |
+| 1.301003 | cert_MS26_new | 5-19-2015 | None |
+| 4.1.332089 | Live | 6-13-2015 | None |
+| 8.1.373869 | Live | 6-29-2015 | None |
+| 9.1.416138 | Live | 7-13-2015 | None |
+| 10.1.430653 | Live | 8-1-2015 | None |
+| 10.1.454665 | Live | 8-7-2015 | None |
+| 10.1.479394 | Live | 8-19-2015 | None |
+| 11.1.498295 | Live | 8-27-2015 | None |
+| 11.1.530945 | Live | 9-3-2015 | None |
+| 11.1.533032 | Live | 9-16-2015 | None |
+| 11.1.554482 | Live | 9-17-2015 | None |
+| 11.1.571698 | Live | 9-25-2015 | None |
+| 11.1.571698 | Live | 10-1-2015 | None |
+| 11.1.604673 | Live | 10-1502015 | None |
+| 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
