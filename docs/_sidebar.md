@@ -10,16 +10,16 @@
   
   - [Xbox 360](#xbox-360)
     
-    - [ - Halo: Reach](#halo-reach)
-    - [ - Halo 3](#halo-3)
-    - [ - Halo 3 ODST](#halo-3-odst)
-    - [ - Halo 4](#halo-4)
-    - [ - Halo Wars](#halo-wars)
+    - [Halo: Reach](#halo-reach)
+    - [Halo 3](#halo-3)
+    - [Halo 3 ODST](#halo-3-odst)
+    - [Halo 4](#halo-4)
+    - [Halo Wars](#halo-wars)
   
   - Xbox
     - [ - Halo CE](#)
     - [ - Halo 2](#)
 
   - [Other](#other)
-    - [ - Halo Online](#halo-online)
+    - [Halo Online](#halo-online)
     - [ - Halo 2 Vista](#)

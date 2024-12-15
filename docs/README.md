@@ -67,6 +67,10 @@
 | 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
 | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
 
+## Halo Wars 2
+| Build | Type | Version | Date | Notes |
+| ----- | ---- | ------- | ---- | ----- |
+
 ## Halo 5
 | Build | Type | Version | Date | Notes |
 | ----- | ---- | ------- | ---- | ----- |
