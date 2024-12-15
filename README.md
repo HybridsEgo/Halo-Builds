@@ -1,5 +1,6 @@
-# Halo: The Master Chief Collection
+<div style="text-align: center;">
 
+# Halo: The Master Chief Collection
 | Build | Type | Version | Date | Notes |
 | ----- | ---- | ------- | ---- | ----- |
 | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
@@ -228,6 +229,7 @@
 | 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail |
 | 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail |
 | *Untracked | Tags Build | 11-13-2013 | |
+</div>
 
 ### Title updates
 > | MediaId | Base Version | Link | Notes |
