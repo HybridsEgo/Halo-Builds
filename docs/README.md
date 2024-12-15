@@ -169,16 +169,16 @@
 | 11637.07.08.02.2348.release | | 8-2-2007 | None | |
 | 11687.07.08.06.1504.main | DLC test | 8-6-2007 | DLC Halo3 Test DLC | |
 | 11729.07.08.10.0021.main | Expo | 8-10-2007 | None | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | English | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | French | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | German | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Italian | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Portuguese | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Polish | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Spanish (Mexican) | |
-| 11855.07.08.20.2317.halo3_ship | 8-20-2007 | Spanish (Traditional) | |
+| 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | English | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | French | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | German | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Italian | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Portuguese | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Polish | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Mexican) | |
+| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
 | 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
 ### Title updates
 > | MediaId | Base Version | Link | Notes |
