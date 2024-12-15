@@ -1,4 +1,6 @@
 # Halo: The Master Chief Collection
+> Missing all release versions... :(
+
 | Build | Type | Version | Date | Notes |
 | ----- | ---- | ------- | ---- | ----- |
 | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
@@ -13,6 +15,8 @@
 | 2021.08.31.136483.3-Nightly-Ring1 | Flight | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
 
 # Halo Infinite
+> Missing some builds from around ~11-17-2023 to ~9-19-2024...
+
 | Build | Type | Date | Notes |
 | ----- | ---- | ---- | ----- |
 | 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
