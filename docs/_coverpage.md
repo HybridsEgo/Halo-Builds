@@ -3,7 +3,7 @@
 
 # Halo Builds
 
-</small> Who doesn't like build numbers? </small>
+</small> Who doesn't like looking at build numbers? </small>
 
 [Modern Halo](#halo-the-master-chief-collection)
 [Legacy Halo](#xbox-360)
