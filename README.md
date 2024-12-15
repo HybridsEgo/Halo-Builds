@@ -53,8 +53,8 @@
 
 > Dates with the '*' prefix (ex: *12-31-2020) are assumptions based upon the build numbers and not the actual release time and could potentially be months apart.
 
-
-# Halo: Reach
+# Xbox 360
+## Halo: Reach
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha |  N/A |
@@ -142,7 +142,7 @@
 | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 
-## **Title updates**
+### **Title updates**
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 046D17EE | 00000002 | [Link]()| French |
@@ -158,12 +158,12 @@
 > | 63681F4C | 0000000A | [Link]()| None |
 > | 00394009 | 00000067 | [Link]()| CEA |
 
-# Halo 3
+## Halo 3
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 
 
-# Halo 3: ODST
+## Halo 3: ODST
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 13895.09.04.27.2201.atlas_relea | Chinese (Traditional) | 10-22-2009 | |
@@ -177,7 +177,7 @@
 | 13895.09.04.27.2201.atlas_relea | Spanish (Mexican) | 10-22-2009 | |
 | 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
 
-# Halo 4
+## Halo 4
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | *Untracked | Untracked Tags Build | 8-22-2011 | | |
