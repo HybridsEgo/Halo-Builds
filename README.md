@@ -57,9 +57,9 @@
 # Halo: Reach
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
-| 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha |
-| 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta |
-| 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta |
+| 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha |  N/A |
+| 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta | N/A |
+| 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta | N/A |
 | 10400.10.05.14.1449.main | Lightmap farm | 5-14-2010 | Referenced in: levels\temp\mickb\m52_gameplay_sandbox | N/A |
 | 10403.10.05.14.1713.main | Lightmap farm | 5-14-2010 | Referenced in: levels\test\box | N/A |
 | 10406.10.05.14.1850.main | Lightmap farm | 5-14-2010 | Referenced in: levels\reference\sound | N/A |
@@ -127,9 +127,9 @@
 | 11860.10.07.24.0147.omaha_relea | Japanese | 7-24-2010 | NTSCJ | 077604A1B6A4906BDC2FEE764896578C |
 | 11860.10.07.24.0147.omaha_relea | Korean | 7-24-2010 | NTSCJ | 61A1F73AB1D1F4E70F255BCD0F6E5B5E |
 | 11860.10.07.24.0147.omaha_relea | Portuguese | 7-24-2010 | NTSC | FD8573EBD621254AF649E9851826D881 |
-| 11860.10.07.24.0147.omaha_relea | Polish | 7-24-2010 | PAL |
+| 11860.10.07.24.0147.omaha_relea | Polish | 7-24-2010 | PAL | N/A |
 | 11860.10.07.24.0147.omaha_relea | Spanish (Mexican) | 7-24-2010 | NTSC | 3034EDCC9AB5D62738495F1642D18BEE |
-| 11860.10.07.24.0147.omaha_relea | Spanish (Traditional) | 7-24-2010 | PAL |
+| 11860.10.07.24.0147.omaha_relea | Spanish (Traditional) | 7-24-2010 | PAL | N/A |
 | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | *11860.10.07.24.0147 | Cache build | 7-24-2010 | Postdates the release by 18 minutes | N/A |
