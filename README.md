@@ -60,65 +60,65 @@
 | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha |
 | 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta |
 | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta |
-| 10400.10.05.14.1449.main | Lightmap farm | 5-14-2010 | levels\temp\mickb\m52_gameplay_sandbox | 
-| 10403.10.05.14.1713.main | Lightmap farm | 5-14-2010 | levels\test\box |
-| 10406.10.05.14.1850.main | Lightmap farm | 5-14-2010 | levels\reference\sound |
-| 10411.10.05.14.2130.main | Lightmap farm | 5-14-2010 | levels\solo\m45 |
-| 10444.10.05.17.1327.main | Lightmap farm | 5-17-2010 | levels\temp\paul\m45_060_interior_lights |
-| 10467.10.05.18.1342.main | Lightmap farm | 5-18-2010 | levels\temp\sshyp\fast_lightmap_test |
-| 10501.10.05.20.0123.main | Lightmap farm | 5-20-2010 | levels\solo\m30 |
-| 10503.10.05.20.1109.main | Lightmap farm | 5-20-2010 | levels\temp\object_review\review01 |
-| 10585.10.05.24.0944.main | Lightmap farm | 5-24-2010 | levels\temp\gbartlet\ragdoll_playground |
-| 10732.10.05.28.1021.main | Lightmap farm | 5-28-2010 | levels\multi\45_launch_station |
-| 10810.10.06.01.1630.main | Lightmap farm | 6-1-2010 | levels\multi\dlc\dlc_medium |
-| 10888.10.06.03.2126.main | Lightmap farm | 6-3-2010 | levels\solo\m05 |
-| 10901.10.06.04.1350.main | Lightmap farm | 6-4-2010 | levels\solo\m70_bonus |
-| 10967.10.06.07.1005.main | Lightmap farm | 6-7-2010 | levels\test\30_settlement_imposters |
-| 11203.10.06.13.1711.main | Lightmap farm | 6-13-2010 | levels\solo\m45 |
-| 11275.10.06.15.2029.main | Lightmap farm | 6-15-2010 | levels\solo\m35 |
-| 11283.10.06.16.0903.main | Lightmap farm | 6-16-2010 | levels\solo\m35 |
-| 11291.10.06.16.1332.main | Lightmap farm | 6-16-2010 | levels\solo\m35 |
-| 11298.10.06.16.1638.main | Lightmap farm | 6-16-2010 | levels\solo\m35 |
-| 11313.10.06.17.1215.main | Lightmap farm | 6-17-2010 | levels\solo\m35 |
-| 11318.10.06.17.1520.main | Lightmap farm | 6-17-2010 | levels\solo\m70 |
-| 11332.10.06.17.2029.main | Lightmap farm | 6-17-2010 | levels\multi\70_boneyard |
-| 11333.10.06.17.2101.main | Lightmap farm | 6-17-2010 | levels\solo\m45 |
-| 11334.10.06.17.2134.main | Lightmap farm | 6-17-2010 | levels\solo\m45 |
-| 11341.10.06.18.0140.main | Lightmap farm | 6-18-2010 | levels\solo\m60 | 
-| 11341.10.06.18.0140.main | Lightmap farm | 6-18-2010 | levels\multi\52_ivory_tower |
-| 11345.10.06.18.1042.main | Lightmap farm | 6-18-2010 | levels\solo\m35 |
-| 11356.10.06.18.1843.main | Lightmap farm | 6-18-2010 | levels\solo\m30 |
-| 11363.10.06.18.2147.main | Lightmap farm | 6-18-2010 | levels\solo\m52 |
-| 11365.10.06.18.2233.main | Lightmap farm | 6-18-2010 | levels\solo\m52 |
-| 11366.10.06.18.2257.main | Lightmap farm | 6-18-2010 | levels\solo\m52 |
-| 11368.10.06.19.0000.main | Lightmap farm | 6-19-2010 | levels\solo\m52 |
-| 11371.10.06.19.0149.main | Lightmap farm | 6-19-2010 | levels\solo\m45 |
-| 11372.10.06.19.1042.main | Lightmap farm | 6-19-2010 | levels\solo\m30 |
-| 11390.10.06.19.2051.main | Lightmap farm | 6-19-2010 | levels\solo\m35 | 
-| 11392.10.06.19.2138.main | Lightmap farm | 6-19-2010 | levels\multi\35_island |
-| 11394.10.06.20.0000.main | Lightmap farm | 6-20-2010 | levels\solo\m20 |
-| 11396.10.06.20.0705.main | Lightmap farm | 6-20-2010 | levels\solo\m60 |
-| 11399.10.06.20.1357.main | Lightmap farm | 6-20-2010 | levels\solo\m60 |
-| 11408.10.06.20.1846.main | Lightmap farm | 6-20-2010 | levels\solo\m60 |
-| 11409.10.06.20.2025.main | Lightmap farm | 6-20-2010 | levels\multi\forge_halo |
-| 11419.10.06.21.1335.main | Lightmap farm | 6-21-2010 | levels\multi\30_settlement |
-| 11459.10.06.22.1742.main | Lightmap farm | 6-22-2010 | levels\solo\m45 |
-| 11464.10.06.22.1944.main | Lightmap farm | 6-22-2010 | levels\multi\45_aftship |
-| 11487.10.06.23.1539.main | Lightmap farm | 6-23-2010 | levels\solo\m35 |
-| 11497.10.06.23.2109.main | Lightmap farm | 6-23-2010 | levels\solo\m10 |
-| 11500.10.06.23.2201.main | Lightmap farm | 6-23-2010 | levels\solo\m10 | 
-| 11516.10.06.24.1410.main | Lightmap farm | 6-24-2010 | levels\solo\m10 | 
-| 11621.10.06.29.1616.main | Lightmap farm | 6-29-2010 | levels\solo\m52 |
-| 11626.10.06.29.1947.main | Lightmap farm | 6-29-2010 | levels\solo\m10 |
-| 11632.10.06.30.0001.main | Lightmap farm | 6-30-2010 | levels\solo\m10 |
-| 11644.10.06.30.1755.main | Lightmap farm | 6-30-2010 | levels\solo\m52 |
-| 11682.10.07.02.1806.main | Lightmap farm | 7-2-2010 | levels\multi\20_sword_slayer |
-| 11695.10.07.04.0000.main | Lightmap farm | 7-4-2010 | levels\solo\m50 |
-| 11696.10.07.04.1023.main | Lightmap farm | 7-4-2010 | levels\solo\m20 |
-| 11704.10.07.06.1115.main | Lightmap farm | 7-6-2010 | levels\solo\m70 |
-| 11705.10.07.06.1145.main | Lightmap farm | 7-6-2010 | levels\multi\dlc\dlc_invasion |
-| 11708.10.07.06.1551.main | Lightmap farm | 7-6-2010 | levels\multi\35_island |
-| 11750.10.07.08.1618.main | Lightmap farm | 7-8-2010 | levels\multi\dlc\dlc_slayer |
+| 10400.10.05.14.1449.main | Lightmap farm | 5-14-2010 | Referenced in: levels\temp\mickb\m52_gameplay_sandbox | 
+| 10403.10.05.14.1713.main | Lightmap farm | 5-14-2010 | Referenced in: levels\test\box |
+| 10406.10.05.14.1850.main | Lightmap farm | 5-14-2010 | Referenced in: levels\reference\sound |
+| 10411.10.05.14.2130.main | Lightmap farm | 5-14-2010 | Referenced in: levels\solo\m45 |
+| 10444.10.05.17.1327.main | Lightmap farm | 5-17-2010 | Referenced in: levels\temp\paul\m45_060_interior_lights |
+| 10467.10.05.18.1342.main | Lightmap farm | 5-18-2010 | Referenced in: levels\temp\sshyp\fast_lightmap_test |
+| 10501.10.05.20.0123.main | Lightmap farm | 5-20-2010 | Referenced in: levels\solo\m30 |
+| 10503.10.05.20.1109.main | Lightmap farm | 5-20-2010 | Referenced in: levels\temp\object_review\review01 |
+| 10585.10.05.24.0944.main | Lightmap farm | 5-24-2010 | Referenced in: levels\temp\gbartlet\ragdoll_playground |
+| 10732.10.05.28.1021.main | Lightmap farm | 5-28-2010 | Referenced in: levels\multi\45_launch_station |
+| 10810.10.06.01.1630.main | Lightmap farm | 6-1-2010 | Referenced in: levels\multi\dlc\dlc_medium |
+| 10888.10.06.03.2126.main | Lightmap farm | 6-3-2010 | Referenced in: levels\solo\m05 |
+| 10901.10.06.04.1350.main | Lightmap farm | 6-4-2010 | Referenced in: levels\solo\m70_bonus |
+| 10967.10.06.07.1005.main | Lightmap farm | 6-7-2010 | Referenced in: levels\test\30_settlement_imposters |
+| 11203.10.06.13.1711.main | Lightmap farm | 6-13-2010 | Referenced in: levels\solo\m45 |
+| 11275.10.06.15.2029.main | Lightmap farm | 6-15-2010 | Referenced in: levels\solo\m35 |
+| 11283.10.06.16.0903.main | Lightmap farm | 6-16-2010 | Referenced in: levels\solo\m35 |
+| 11291.10.06.16.1332.main | Lightmap farm | 6-16-2010 | Referenced in: levels\solo\m35 |
+| 11298.10.06.16.1638.main | Lightmap farm | 6-16-2010 | Referenced in: levels\solo\m35 |
+| 11313.10.06.17.1215.main | Lightmap farm | 6-17-2010 | Referenced in: levels\solo\m35 |
+| 11318.10.06.17.1520.main | Lightmap farm | 6-17-2010 | Referenced in: levels\solo\m70 |
+| 11332.10.06.17.2029.main | Lightmap farm | 6-17-2010 | Referenced in: levels\multi\70_boneyard |
+| 11333.10.06.17.2101.main | Lightmap farm | 6-17-2010 | Referenced in: levels\solo\m45 |
+| 11334.10.06.17.2134.main | Lightmap farm | 6-17-2010 | Referenced in: levels\solo\m45 |
+| 11341.10.06.18.0140.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m60 | 
+| 11341.10.06.18.0140.main | Lightmap farm | 6-18-2010 | Referenced in: levels\multi\52_ivory_tower |
+| 11345.10.06.18.1042.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m35 |
+| 11356.10.06.18.1843.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m30 |
+| 11363.10.06.18.2147.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m52 |
+| 11365.10.06.18.2233.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m52 |
+| 11366.10.06.18.2257.main | Lightmap farm | 6-18-2010 | Referenced in: levels\solo\m52 |
+| 11368.10.06.19.0000.main | Lightmap farm | 6-19-2010 | Referenced in: levels\solo\m52 |
+| 11371.10.06.19.0149.main | Lightmap farm | 6-19-2010 | Referenced in: levels\solo\m45 |
+| 11372.10.06.19.1042.main | Lightmap farm | 6-19-2010 | Referenced in: levels\solo\m30 |
+| 11390.10.06.19.2051.main | Lightmap farm | 6-19-2010 | Referenced in: levels\solo\m35 | 
+| 11392.10.06.19.2138.main | Lightmap farm | 6-19-2010 | Referenced in: levels\multi\35_island |
+| 11394.10.06.20.0000.main | Lightmap farm | 6-20-2010 | Referenced in: levels\solo\m20 |
+| 11396.10.06.20.0705.main | Lightmap farm | 6-20-2010 | Referenced in: levels\solo\m60 |
+| 11399.10.06.20.1357.main | Lightmap farm | 6-20-2010 | Referenced in: levels\solo\m60 |
+| 11408.10.06.20.1846.main | Lightmap farm | 6-20-2010 | Referenced in: levels\solo\m60 |
+| 11409.10.06.20.2025.main | Lightmap farm | 6-20-2010 | Referenced in: levels\multi\forge_halo |
+| 11419.10.06.21.1335.main | Lightmap farm | 6-21-2010 | Referenced in: levels\multi\30_settlement |
+| 11459.10.06.22.1742.main | Lightmap farm | 6-22-2010 | Referenced in: levels\solo\m45 |
+| 11464.10.06.22.1944.main | Lightmap farm | 6-22-2010 | Referenced in: levels\multi\45_aftship |
+| 11487.10.06.23.1539.main | Lightmap farm | 6-23-2010 | Referenced in: levels\solo\m35 |
+| 11497.10.06.23.2109.main | Lightmap farm | 6-23-2010 | Referenced in: levels\solo\m10 |
+| 11500.10.06.23.2201.main | Lightmap farm | 6-23-2010 | Referenced in: levels\solo\m10 | 
+| 11516.10.06.24.1410.main | Lightmap farm | 6-24-2010 | Referenced in: levels\solo\m10 | 
+| 11621.10.06.29.1616.main | Lightmap farm | 6-29-2010 | Referenced in: levels\solo\m52 |
+| 11626.10.06.29.1947.main | Lightmap farm | 6-29-2010 | Referenced in: levels\solo\m10 |
+| 11632.10.06.30.0001.main | Lightmap farm | 6-30-2010 | Referenced in: levels\solo\m10 |
+| 11644.10.06.30.1755.main | Lightmap farm | 6-30-2010 | Referenced in: levels\solo\m52 |
+| 11682.10.07.02.1806.main | Lightmap farm | 7-2-2010 | Referenced in: levels\multi\20_sword_slayer |
+| 11695.10.07.04.0000.main | Lightmap farm | 7-4-2010 | Referenced in: levels\solo\m50 |
+| 11696.10.07.04.1023.main | Lightmap farm | 7-4-2010 | Referenced in: levels\solo\m20 |
+| 11704.10.07.06.1115.main | Lightmap farm | 7-6-2010 | Referenced in: levels\solo\m70 |
+| 11705.10.07.06.1145.main | Lightmap farm | 7-6-2010 | Referenced in: levels\multi\dlc\dlc_invasion |
+| 11708.10.07.06.1551.main | Lightmap farm | 7-6-2010 | Referenced in: levels\multi\35_island |
+| 11750.10.07.08.1618.main | Lightmap farm | 7-8-2010 | Referenced in: levels\multi\dlc\dlc_slayer |
 | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | 11860.10.07.24.0147.omaha_relea | English | 7-24-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
 | 11860.10.07.24.0147.omaha_relea | French | 7-24-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
@@ -134,9 +134,9 @@
 | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | *11860.10.07.24.0147 | Cache build | 7-24-2010 | Postdates the release by 18 minutes |
 | *11860.10.07.24.0147  | Cache build | 10-25-2010 | Rebuilt Cache Build |
-| 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs |
-| 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | levels\reference\lighting_reference |
-| 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | levels\multi\dlc\dlc_invasion |
+| 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs |
+| 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference |
+| 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion |
 | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test |
 | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
