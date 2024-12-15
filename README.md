@@ -162,6 +162,9 @@
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 
+### Title updates
+> | MediaId | Base Version | Link | Notes |
+> | ------- | ------------ | ---- | ----- |
 
 ## Halo 3: ODST
 | Build | Type | Date | Notes | MediaId |
@@ -176,6 +179,10 @@
 | 13895.09.04.27.2201.atlas_relea | Polish | 10-22-2009 | |
 | 13895.09.04.27.2201.atlas_relea | Spanish (Mexican) | 10-22-2009 | |
 | 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
+
+### Title updates
+> | MediaId | Base Version | Link | Notes |
+> | ------- | ------------ | ---- | ----- |
 
 ## Halo 4
 | Build | Type | Date | Notes | MediaId |
@@ -221,3 +228,7 @@
 | 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail |
 | 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail |
 | *Untracked | Tags Build | 11-13-2013 | |
+
+### Title updates
+> | MediaId | Base Version | Link | Notes |
+> | ------- | ------------ | ---- | ----- |
