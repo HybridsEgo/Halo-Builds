@@ -10,6 +10,7 @@
 | 2020.04.15.81829.4-Nightly-Release | Flight | 1.1477.0.0 | 4-15-2020 | CE + H2
 | 2020.06.10.89331.2-Nightly-Ring1 | Flight | 1.1629.0.0 | 6-10-2020 | H3 |
 | 2020.06.21.91052.2-Nightly-Release | Flight | 1.1658.0.0 | 6-21-2020 | H3 |
+| Unknown | Flight | 1.1778.0.0 | | ODST campaign with skulls on by default |
 | 2020.10.16.103257.1-Nightly-Ring1 | Flight | 1.1896.0.0 | 10-16-2020 | H4 |
 | 2020.10.29.105068.1-Nightly-Release | Flight | 1.1930.0.0 | 10-29-2020 | HR + H4 |
 | MISSING 3 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
@@ -30,42 +31,46 @@
 ## Halo Infinite
 > Missing some builds from around ~11-17-2023 to ~9-19-2024...
 
-| Build | Type | Date | Notes |
-| ----- | ---- | ---- | ----- |
-| 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
-| 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | MGS Test App 6 Tech Preview |
-| 204822.21.10.07.1331-0.P4Main | *E3 Lumu | 10-7-2021 | *Allegedly a developer E3 build that was accidentally uploaded |
-| 207196.21.11.11.1058-0.hifltb | Beta | 11-15-2021 | 20th anniversary beta |
-| 207500.21.11.16.1450-1.hifltb | Beta | 11-19-2021 | 20th anniversary beta fix |
-| 207952.21.11.23.0826-1.hiflta | Release | 12-8-2021 | Campaign release |
-| 209048.21.12.09.1546-0.hirel | Release | 12-14-2021 | Playlist & Service update |
-| 210921.22.01.10.1706-0.hirel | Release | 1-19-2022 | BTB Playlist fix attempt 1 |
-| 211755.22.01.23.0549-0.hirel | Release | 2-3-2022 | BTB Playlist fix attempt 2 |
-| 212835.22.02.08.1755-0.hifltb | Release | 2-8-2022 | None |
-| 216272.22.03.24.1336-0.hirel | Release | 4-5-2022 | Mid-Season update |
-| 218539.22.04.22.1825-0.hiflta | Release | 5-4-2022 | Season 2 Tricking & Speedruning purge |
-| 220499.22.05.17.1752-0.hirel | Release | 5-25-2022 | Trick Jump & Speedrun restoration patch
-| 222249.22.06.08.1730-0.hirc | Release | 6-14-2022 | Drop-pod update |
-| 223411.22.06.21.1557-0.hirc | Release | 6-29-2022 | Recharge map exploit patch |
-| 224712.22.07.07.1218-3.hiflta | Flight | 7-15-2022 | Coop campaign IvoryDuck1194 branch test |
-| 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Cross-core visors update |
-| 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Half filesize (same build number as previous build) |
-| 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | October 25th patch |
-| 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
-| 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
-| 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
-| 236112.22.12.01.1408-2.hifltc | Release | 12-1-2022 | None |
-| 238744.23.01.19.2003-2.hifltc | Release | 1-19-2023| None |
-| 240518.23.02.22.2011-0.hifltb | Release | 2-22-2023 | Season 3 |
-| 241251.23.03.08.1725-3.hifltb | Release | 3-8-2023 | Season 3 QoL |
-| 243134.23.04.11.1534-4.hifltc | Release | 4-11-2023 | None |
-| 245613.23.06.01.1708-0.hiflta | Release | 6-1-2023 | Season 4 |
-| 247792.23.07.21.2003-1.hi_1_4_1 | Release | 7-21-2023 | None |
-| 250367.23.09.17.1802-1.hi_1_5_0 | Release | 9-17-2023 | None |
-| 252948.23.11.17.1028-6.hi_1_5_1 | Release | 11-17-2023 | None | 
-| 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
-| 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
-| 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
+| ✅ | 199229.21.07.20.0001-5.flt002int | Flight | 7-29-2021 | 4847683316705932833 | 
+| ✅ | 199229.21.07.20.0001-5.flt002int | Flight | 7-29-2021 | 7580679945200992150 Alt |
+| ✅ | 199229.21.07.20.0001-5.flt002int | Flight | 8-2-2021 | 8892607067602386755 (Thanks for playing! readme.txt) |
+| ✅ | 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | MGS Test App 6 Tech Preview |
+| ✅ | 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | 8606614782923558858 Alt (18732 MB) |
+| ✅ | 204822.21.10.07.1331-0.P4Main | *E3 Lumu | 10-7-2021 | *Allegedly a developer E3 build that was accidentally uploaded |
+| ✅ | 207196.21.11.11.1058-0.hifltb | Beta | 11-15-2021 | 20th anniversary beta |
+| ✅ | 207500.21.11.16.1450-1.hifltb | Beta | 11-19-2021 | 20th anniversary beta fix |
+| ✅ | 207952.21.11.23.0826-1.hiflta | Release | 12-8-2021 | Campaign release |
+| ✅ | 209048.21.12.09.1546-0.hirel | Release | 12-14-2021 | Playlist & Service update |
+| ✅ | 210921.22.01.10.1706-0.hirel | Release | 1-19-2022 | BTB Playlist fix attempt 1 |
+| ✅ | 211755.22.01.23.0549-0.hirel | Release | 2-3-2022 | BTB Playlist fix attempt 2 |
+| ✅ | 212835.22.02.08.1755-0.hifltb | Release | 2-8-2022 | None |
+| ✅ | 216272.22.03.24.1336-0.hirel | Release | 4-5-2022 | Mid-Season update |
+| ✅ | 218539.22.04.22.1825-0.hiflta | Release | 5-4-2022 | Season 2 Tricking & Speedruning purge |
+| ✅ | 220499.22.05.17.1752-0.hirel | Release | 5-25-2022 | Trick Jump & Speedrun restoration patch
+| ✅ | 222249.22.06.08.1730-0.hirc | Release | 6-14-2022 | Drop-pod update |
+| ✅ | 223411.22.06.21.1557-0.hirc | Release | 6-29-2022 | Recharge map exploit patch |
+| ✅ | 224712.22.07.07.1218-3.hiflta | Flight | 7-15-2022 | Coop campaign IvoryDuck1194 branch test |
+| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Cross-core visors update |
+| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Half filesize (same build number as previous build) |
+| ✅ | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | October 25th patch |
+| ✅ | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
+| ✅ | 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
+| ✅ | 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
+| ✅ | 236112.22.12.01.1408-2.hifltc | Release | 12-1-2022 | None |
+| ✅ | 238744.23.01.19.2003-2.hifltc | Release | 1-19-2023| None |
+| ✅ | 240518.23.02.22.2011-0.hifltb | Release | 2-22-2023 | Season 3 |
+| ✅ | 241251.23.03.08.1725-3.hifltb | Release | 3-8-2023 | Season 3 QoL |
+| ✅ | 243134.23.04.11.1534-4.hifltc | Release | 4-11-2023 | None |
+| ✅ | 245613.23.06.01.1708-0.hiflta | Release | 6-1-2023 | Season 4 |
+| ✅ | 247792.23.07.21.2003-1.hi_1_4_1 | Release | 7-21-2023 | None |
+| ✅ | 250367.23.09.17.1802-1.hi_1_5_0 | Release | 9-17-2023 | None |
+| ✅ | 252948.23.11.17.1028-6.hi_1_5_1 | Release | 11-17-2023 | None | 
+| ✅ | 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
+| ✅ | 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
+| ✅ | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
 
 ## Halo Wars 2
 | Build | Type | Version | Date | Notes |
@@ -97,6 +102,7 @@
 ## Halo: Reach
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
+| 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N/A |
 | 07348.10.01.12.1211.main | Lightmap Reference | 1-12-2010 | | N/A |
 | 07349.10.01.12.1403.main | Lightmap Reference | 1-12-2010 | | N/A |
 | 07548.10.01.21.1318.omaha_alpha | Lightmap Reference | 1-21-2010 | | N/A |
