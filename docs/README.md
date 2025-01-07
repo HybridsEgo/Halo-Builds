@@ -102,24 +102,24 @@
 ## Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
-| ❌ | 02974.09.01.28.1655.main | Omaha | 1 - 28 - 2009 | Digsite | N / A |
-| ❌ | 07348.10.01.12.1211.main | Lightmap Reference | 1 - 12 - 2010 | | N / A |
-| ❌ | 07349.10.01.12.1403.main | Lightmap Reference | 1 - 12 - 2010 | | N / A |
-| ❌ | 07548.10.01.21.1318.omaha_alpha | Lightmap Reference | 1 - 21 - 2010 | | N / A |
-| ❌ | 07638.10.01.25.1227.omaha_alpha | Lightmap Reference | 1 - 25 - 2010 | | N / A |
-| ❌ | 07673.10.01.26.0420.omaha_alpha | Lightmap Reference | 1 - 26 - 2010 | | N / A |
-| ❌ | 07694.10.01.26.1442.omaha_alpha | Lightmap Reference | 1 - 26 - 2010 | | N / A |
-| ❌ | 07750.10.01.27.1956.omaha_alpha | Lightmap Reference | 1 - 27 - 2010 | | N / A |
-| ✅ | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2 - 19 - 2010 | Private Multiplayer Pre-Alpha | N/A |
+| ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N / A |
+| ❌ | 07348.10.01.12.1211.main | Lightmap Reference | 1-12-2010 | | N / A |
+| ❌ | 07349.10.01.12.1403.main | Lightmap Reference | 1-12-2010 | | N / A |
+| ❌ | 07548.10.01.21.1318.omaha_alpha | Lightmap Reference | 1-21-2010 | | N / A |
+| ❌ | 07638.10.01.25.1227.omaha_alpha | Lightmap Reference | 1-25-2010 | | N / A |
+| ❌ | 07673.10.01.26.0420.omaha_alpha | Lightmap Reference | 1-26-2010 | | N / A |
+| ❌ | 07694.10.01.26.1442.omaha_alpha | Lightmap Reference | 1-26-2010 | | N / A |
+| ❌ | 07750.10.01.27.1956.omaha_alpha | Lightmap Reference | 1-27-2010 | | N / A |
+| ✅ | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha | 00000000000000000000000000000000 |
 | ❌ | 08838.10.03.05.1620.main | Lightmap Reference | 3-5-2010 | | N/A |
 | ❌ | 09055.10.03.12.1736.omaha_delta | Lightmap Reference | 3-12-2010 | | N/A |
 | ❌ | 09163.10.03.15.2224.omaha_delta | Lightmap Reference | 3-15-2010 | | N/A |
 | ❌ | 09165.10.03.15.2250.omaha_delta | Lightmap Reference | 3-15-2010 | | N/A |
 | ❌ | 09207.10.03.16.2138.omaha_delta | Lightmap Reference | 3-16-2010 | | N/A |
 | ❌ | 09252.10.03.18.0212.omaha_delta | Lightmap Reference | 3-18-2010 | | N/A |
-| ✅ | 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta | N/A |
+| ✅ | 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta | 00000000000000000000000000000000 |
 | ❌ | 09452.10.03.25.1727.omaha_delta | Lightmap Reference | 3-25-2010 | | N/A |
-| ✅ | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta | N/A |
+| ✅ | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta | 00000000000000000000000000000000 |
 | ❌ | 10400.10.05.14.1449.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\temp\mickb\m52_gameplay_sandbox | N/A |
 | ❌ | 10403.10.05.14.1713.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\test\box | N/A |
 | ❌ | 10406.10.05.14.1850.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\reference\sound | N/A |
