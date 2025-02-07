@@ -1,6 +1,5 @@
 # Modern Halo
 ## Halo: The Master Chief Collection
-> Missing almost all of the release versions... :(
 
 | Build | Type | Version | Date | Notes |
 | ----- | ---- | ------- | ---- | ----- |
@@ -29,7 +28,6 @@
 > Probably missing more than what is listed here...
 
 ## Halo Infinite
-> Missing some builds from around ~11-17-2023 to ~9-19-2024...
 
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
@@ -71,6 +69,7 @@
 | ✅ | 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
 | ✅ | 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
 | ✅ | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
+| ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 |  Operation: Frontlines - Spring Update 2025 |
 
 ## Halo Wars 2
 | Build | Type | Version | Date | Notes |
