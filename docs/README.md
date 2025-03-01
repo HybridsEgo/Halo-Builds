@@ -12,20 +12,15 @@
 | Unknown | Flight | 1.1778.0.0 | | ODST campaign with skulls on by default |
 | 2020.10.16.103257.1-Nightly-Ring1 | Flight | 1.1896.0.0 | 10-16-2020 | H4 |
 | 2020.10.29.105068.1-Nightly-Release | Flight | 1.1930.0.0 | 10-29-2020 | HR + H4 |
-| MISSING 3 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.02.25.115760.2-Nightly-Ring1 | Flight | 1.2159.0.0 | 2-25-2021 | HR + H3 |
-| MISSING 1 BUILD BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.05.20.126480.1-Nightly-Ring1 | Flight | 1.2341.0.0 | 5-20-2021 | CE + H3 + H4 |
-| MISSING 3 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2021.07.16.132181.1-Nightly-Release | Release | 1.2448.0.0 | 7-16-2021 | None
 | 2021.08.31.136483.3-Nightly-Ring1 | Flight | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
-| MISSING 9 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2022.06.08.157370.1-Release | Release | 1.2904.0.0 | 6-8-2022 | None |
 | 2022.08.21.162317.1-Release | Release | 1.2969.0.0 | 8-21-2022 | None |
-| MISSING 5 BUILDS BETWEEN HERE | N/A | N/A | N/A | N/A |
 | 2023.09.01.177329.1-QFE1 | Release | 1.3272.0.0 | 9-1-23 | None |
 | 2024.01.03.177898.1-Release | Release | 1.3385.0.0 | 1-3-2024 | None |
-> Probably missing more than what is listed here...
+| 2025.02.25.178468.1-Release | Release | 1.3495.0.0 | 2-25-2025 | February Update (EAC Patch) |
 
 ## Halo Infinite
 
