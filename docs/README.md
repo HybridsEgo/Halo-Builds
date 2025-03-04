@@ -89,9 +89,10 @@
 | ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
 
 ## Halo Fireteam Raven
-| Build | Type | Date | Notes | 
-| ----- | ---- | ---- | ----- |
-
+| Available | Build | Type | Date | Notes | 
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 5506_P2 | Release? | | |
+ 
 # Xbox 360
 ## Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
