@@ -181,16 +181,16 @@
 | ✅ | 11860.10.07.24.0147.omaha_relea | Japanese | 7-24-2010 | NTSCJ | 077604A1B6A4906BDC2FEE764896578C |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Korean | 7-24-2010 | NTSCJ | 61A1F73AB1D1F4E70F255BCD0F6E5B5E |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Portuguese | 7-24-2010 | NTSC | FD8573EBD621254AF649E9851826D881 |
-| ✅ | 11860.10.07.24.0147.omaha_relea | Polish | 7-24-2010 | PAL | N/A |
+| ❌ | 11860.10.07.24.0147.omaha_relea | Polish | 7-24-2010 | PAL | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Spanish (Mexican) | 7-24-2010 | NTSC | 3034EDCC9AB5D62738495F1642D18BEE |
-| ✅ | 11860.10.07.24.0147.omaha_relea | Spanish (Traditional) | 7-24-2010 | PAL | N/A |
+| ❌ | 11860.10.07.24.0147.omaha_relea | Spanish (Traditional) | 7-24-2010 | PAL | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | ✅ | *11860.10.07.24.0147 | Cache build | 7-24-2010 | Postdates the release by 18 minutes | N/A |
 | ✅ | *11860.10.07.24.0147  | Cache build | 10-25-2010 | Rebuilt Cache Build | N/A |
-| ✅ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
-| ✅ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference | N/A |
-| ✅ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
+| ❌ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
+| ❌ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference | N/A |
+| ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
 | ✅ | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test | N/A |
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
@@ -257,48 +257,48 @@
 ## Halo 4
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
-| *Untracked | Untracked Tags Build | 8-22-2011 | | |
-| *Untracked | Untracked Cache Build | 9-19-2011 | | |
-| 07745.11.09.27.1746.horse | Tags Build | 9-28-2011 | | |
-| 07866.11.10.04.1335-0 | Cache Build | 10-4-2011 | | |
-| 07867.11.10.04.1338 | Cache Build | 10-5-2011 | | |
-| *Untracked (343v_summlo) | Cache Build | 10-12-2011 | | |
-| 08113.11.10.14.0230-1 | Cache Build | 10-14-2011 | No XEXs or Waves | |
-| 08257.11.10.20.0230-0 | Beta | 10-20-2011 | | |
-| 08257.11.10.20.0230-2 | Beta | 10-20-2011 | | |
-| *Untracked | Cache Build | 11-15-2011 | | |
-| 09550.11.12.21.0300-0 | Cache Build | 12-21-2011 | | |
-| 14064.12.05.05.1011.beta | Beta | 5-5-2012 | Network Test | |
-| 15116.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | War Games demo | | 
-| 15117.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | Spartan Ops demo | |
-| 15119.12.05.31.0400.e3m60 | E3 Demo | 5-31-2012 | Campaign demo | |
-| *Untracked | DLC | 7-17-2012 | Dumped from Test Chamber level DLC | | 
-| 16531.12.07.05.0200.main | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | |
-| 16587.12.07.05.2141.precert | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | |
-| 17539.12.07.24.0200.main | DLC | 7-24-2012 | Dumped from Test Chamber level DLC | |
-| 18223.12.08.06.0200.main | DLC | 8-6-2012 | Dumped from Test Chamber level DLC | |
-| 18845.12.08.16.0200.main | DLC | 8-16-2012 | Dumped from Test Chamber level DLC | |
-| 19057.12.08.19.0400.main | DLC | 8-19-2012 | Dumped from Test Chamber level DLC | |
-| 20190.12.09.05.0200.main | DLC | 9-9-2012 | Dumped from Test Chamber level DLC | |
-| 20703.12.09.16.0400.main | DLC | 9-16-2012 | Dumped from Test Chamber level DLC | |
-| 20744.12.09.18.0100.main | DLC | 9-18-2012 | Dumped from Test Chamber level DLC | |
-| 20810.12.09.22.1647.main | Chinese (Traditional) | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | English | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | French | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | German | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Italian | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Japanese | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Korean | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Portuguese | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Polish | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Spanish (Mexican) | 9-22-2012 | Retail |
-| 20810.12.09.22.1647.main | Spanish (Traditional) | 9-22-2012 | Retail |
-| 21122.12.11.21.0101.main | TU2 | 11-21-2012 | Retail |
-| 21165.12.12.12.0112.main | TU3 | 12-12-2012 | Retail |
+| *Untracked | Untracked Tags Build | 8-22-2011 | | N/A |
+| *Untracked | Untracked Cache Build | 9-19-2011 | | N/A |
+| 07745.11.09.27.1746.horse | Tags Build | 9-28-2011 | | N/A |
+| 07866.11.10.04.1335-0 | Cache Build | 10-4-2011 | | N/A |
+| 07867.11.10.04.1338 | Cache Build | 10-5-2011 | | N/A |
+| *Untracked (343v_summlo) | Cache Build | 10-12-2011 | | N/A |
+| 08113.11.10.14.0230-1 | Cache Build | 10-14-2011 | No XEXs or Waves | N/A |
+| 08257.11.10.20.0230-0 | Beta | 10-20-2011 | | N/A |
+| 08257.11.10.20.0230-2 | Beta | 10-20-2011 | | N/A |
+| *Untracked | Cache Build | 11-15-2011 | | N/A |
+| 09550.11.12.21.0300-0 | Cache Build | 12-21-2011 | | N/A |
+| 14064.12.05.05.1011.beta | Beta | 5-5-2012 | Network Test | N/A |
+| 15116.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | War Games demo | N/A | 
+| 15117.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | Spartan Ops demo | N/A |
+| 15119.12.05.31.0400.e3m60 | E3 Demo | 5-31-2012 | Campaign demo | N/A |
+| *Untracked | DLC | 7-17-2012 | Dumped from Test Chamber level DLC | N/A | 
+| 16531.12.07.05.0200.main | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
+| 16587.12.07.05.2141.precert | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
+| 17539.12.07.24.0200.main | DLC | 7-24-2012 | Dumped from Test Chamber level DLC | N/A |
+| 18223.12.08.06.0200.main | DLC | 8-6-2012 | Dumped from Test Chamber level DLC | N/A |
+| 18845.12.08.16.0200.main | DLC | 8-16-2012 | Dumped from Test Chamber level DLC | N/A |
+| 19057.12.08.19.0400.main | DLC | 8-19-2012 | Dumped from Test Chamber level DLC | N/A |
+| 20190.12.09.05.0200.main | DLC | 9-9-2012 | Dumped from Test Chamber level DLC | N/A |
+| 20703.12.09.16.0400.main | DLC | 9-16-2012 | Dumped from Test Chamber level DLC | N/A |
+| 20744.12.09.18.0100.main | DLC | 9-18-2012 | Dumped from Test Chamber level DLC | N/A |
+| 20810.12.09.22.1647.main | Chinese (Traditional) | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | English | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | French | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | German | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Italian | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Japanese | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Korean | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Portuguese | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Polish | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Spanish (Mexican) | 9-22-2012 | Retail | |
+| 20810.12.09.22.1647.main | Spanish (Traditional) | 9-22-2012 | Retail | |
+| 21122.12.11.21.0101.main | TU2 | 11-21-2012 | Retail | |
+| 21165.12.12.12.0112.main | TU3 | 12-12-2012 | Retail | |
 | *19057.12.08.19.0400.main | Tags Build | 1-14-2013 | |
-| 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail |
-| 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail |
-| *Untracked | Tags Build | 11-13-2013 | |
+| 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail | |
+| 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail | |
+| *Untracked | Tags Build | 11-13-2013 | | |
 
 ### Title updates
 > | MediaId | Base Version | Link | Notes |
