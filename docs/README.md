@@ -63,7 +63,7 @@
 | ✅ | 252948.23.11.17.1028-6.hi_1_5_1 | Release | 11-17-2023 | None | 
 | ✅ | 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
 | ✅ | 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
-| ✅ | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: snowbound update |
+| ✅ | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: Snowbound |
 | ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 |  Operation: Frontlines - Spring Update 2025 |
 
 ## Halo Wars 2
