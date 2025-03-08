@@ -67,10 +67,12 @@
 | ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 |  Operation: Frontlines - Spring Update 2025 |
 
 ## Halo Wars 2
+
 | Build | Type | Version | Date | Notes |
 | ----- | ---- | ------- | ---- | ----- |
 
 ## Halo 5
+
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ✅ | 66188.15.08.03.1256-0.main | Delta | 1.1.653.0 | 8-3-2015 | None |
@@ -89,12 +91,15 @@
 | ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
 
 ## Halo Fireteam Raven
+
 | Available | Build | Type | Date | Notes | 
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 5506_P2 | Release? | | |
+
  
 # Xbox 360
 ## Halo: Reach
+
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
 | ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N / A |
@@ -198,6 +203,7 @@
 | ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 
 ### Title updates
+
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 046D17EE | 00000002 | [Link]()| French |
@@ -214,6 +220,7 @@
 > | 00394009 | 00000067 | [Link]()| CEA |
 
 ## Halo 3
+
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 05241.06.09.21.1534.first_playt | | 9-21-2006 | None | |
@@ -236,11 +243,14 @@
 | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Mexican) | |
 | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
 | 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
+
 ### Title updates
+
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 
 ## Halo 3: ODST
+
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 13895.09.04.27.2201.atlas_relea | Chinese (Traditional) | 10-22-2009 | |
@@ -256,6 +266,7 @@
 | 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
 
 ## Halo 4
+
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | *Untracked | Untracked Tags Build | 8-22-2011 | | N/A |
@@ -302,10 +313,12 @@
 | *Untracked | Tags Build | 11-13-2013 | | |
 
 ### Title updates
+
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 
 ## Halo wars
+
 | Build | Type | Date | Notes |
 | ----- | ---- | ---- | ----- |
 | 093106 | Alpha | 02-21-2008 | |
@@ -317,6 +330,7 @@
 
 # Other
 ## Halo Online
+
 | Build | Type | Date | Notes |
 | ----- | ---- | ---- | ----- |
 | 1.106708 | cert_ms23 | 3-20-2015 | Used by Eldewrito |
