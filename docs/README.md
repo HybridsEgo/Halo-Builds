@@ -68,8 +68,10 @@
 
 ## Halo Wars 2
 
-| Build | Type | Version | Date | Notes |
-| ----- | ---- | ------- | ---- | ----- |
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 582479.blitz-beta | PC Beta | 12-20-2016 | None |
+| ✅ | 583925.blitz-beta | PC Beta | 1-5-2017 | None |
 
 ## Halo 5
 
