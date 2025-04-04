@@ -104,16 +104,23 @@
 
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
-| ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N / A |
-| ❌ | 07348.10.01.12.1211.main | Lightmap Reference | 1-12-2010 | | N / A |
-| ❌ | 07349.10.01.12.1403.main | Lightmap Reference | 1-12-2010 | | N / A |
-| ❌ | 07548.10.01.21.1318.omaha_alpha | Lightmap Reference | 1-21-2010 | Pre alpha lightmap reference | N / A |
-| ❌ | 07638.10.01.25.1227.omaha_alpha | Lightmap Reference | 1-25-2010 | Pre alpha lightmap reference | N / A |
-| ❌ | 07673.10.01.26.0420.omaha_alpha | Lightmap Reference | 1-26-2010 | Pre alpha lightmap reference | N / A |
-| ❌ | 07694.10.01.26.1442.omaha_alpha | Lightmap Reference | 1-26-2010 | Pre alpha lightmap reference | N / A |
-| ❌ | 07750.10.01.27.1956.omaha_alpha | Lightmap Reference | 1-27-2010 | Pre alpha lightmap reference | N / A |
+| ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N/A |
+| ⚠️ | N/A | Omaha 1st Playable and Takehome | 6-19-2009 | | N/A | 
+| ⚠️ | N/A | Omaha 1st Playable and Takehome | 7-9-2009 | | N/A | 
+| ⚠️ | N/A | Omaha 2nd Playable and Takehome | 8-14-2009 | | N/A |
+| ⚠️ | N/A | Omaha 3rd Playable and Takehome | 11-17-2009 | | N/A |
+| ⚠️ | N/A | Omaha Alpha Content Complete | 12-18-2009 | | N/A | 
+| ❌ | 07348.10.01.12.1211.main | Lightmap Reference | 1-12-2010 | | N/A |
+| ❌ | 07349.10.01.12.1403.main | Lightmap Reference | 1-12-2010 | | N/A |
+| ❌ | 07548.10.01.21.1318.omaha_alpha | Lightmap Reference | 1-21-2010 | Pre alpha lightmap reference | N/A |
+| ⚠️ | N/A | Omaha Alpha Pipeline | 1-22-2010 | | N/A |
+| ❌ | 07638.10.01.25.1227.omaha_alpha | Lightmap Reference | 1-25-2010 | Pre alpha lightmap reference | N/A |
+| ❌ | 07673.10.01.26.0420.omaha_alpha | Lightmap Reference | 1-26-2010 | Pre alpha lightmap reference | N/A |
+| ❌ | 07694.10.01.26.1442.omaha_alpha | Lightmap Reference | 1-26-2010 | Pre alpha lightmap reference | N/A |
+| ❌ | 07750.10.01.27.1956.omaha_alpha | Lightmap Reference | 1-27-2010 | Pre alpha lightmap reference | N/A |
 | ✅ | 08516.10.02.19.1607.omaha_alpha | Pre Alpha | 2-19-2010 | Private Multiplayer Pre-Alpha | 00000000000000000000000000000000 |
 | ❌ | 08838.10.03.05.1620.main | Lightmap Reference | 3-5-2010 | Pre alpha lightmap reference | N/A |
+| ⚠️ | N/A | Omaha Alpha RTM | 3-10-2010 | | N/A |
 | ❌ | 09055.10.03.12.1736.omaha_delta | Lightmap Reference | 3-12-2010 | Pre beta lightmap reference | N/A |
 | ❌ | 09163.10.03.15.2224.omaha_delta | Lightmap Reference | 3-15-2010 | Pre beta lightmap reference | N/A |
 | ❌ | 09165.10.03.15.2250.omaha_delta | Lightmap Reference | 3-15-2010 | Pre beta lightmap reference | N/A |
@@ -121,7 +128,10 @@
 | ❌ | 09252.10.03.18.0212.omaha_delta | Lightmap Reference | 3-18-2010 | Pre beta lightmap reference | N/A |
 | ✅ | 09449.10.03.25.1545.omaha_beta | Pre Beta | 3-25-2010 | Private Multiplayer Pre-Beta | 00000000000000000000000000000000 |
 | ❌ | 09452.10.03.25.1727.omaha_delta | Lightmap Reference | 3-25-2010 | Pre beta lightmap reference | N/A |
+| ⚠️ | N/A | Omaha Beta RTM and PT4 | 4-9-2010 | | N/A | 
 | ✅ | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta | 00000000000000000000000000000000 |
+| ⚠️ | N/A | Omaha 5th Playtest | 5-6-2010 | | N/A |
+| ⚠️ | N/A | Omaha Delta | 5-7-2010 | | N/A | 
 | ❌ | 10400.10.05.14.1449.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\temp\mickb\m52_gameplay_sandbox | N/A |
 | ❌ | 10403.10.05.14.1713.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\test\box | N/A |
 | ❌ | 10406.10.05.14.1850.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\reference\sound | N/A |
@@ -131,12 +141,15 @@
 | ❌ | 10501.10.05.20.0123.main | Lightmap Reference | 5-20-2010 | Referenced in: levels\solo\m30 | N/A |
 | ❌ | 10503.10.05.20.1109.main | Lightmap Reference | 5-20-2010 | Referenced in: levels\temp\object_review\review01 | N/A |
 | ❌ | 10585.10.05.24.0944.main | Lightmap Reference | 5-24-2010 | Referenced in: levels\temp\gbartlet\ragdoll_playground | N/A |
+| ⚠️ | N/A | Omaha 6th Playtest | 5-28-2010 | | N/A | 
 | ❌ | 10732.10.05.28.1021.main | Lightmap Reference | 5-28-2010 | Referenced in: levels\multi\45_launch_station | N/A |
 | ❌ | 10810.10.06.01.1630.main | Lightmap Reference | 6-1-2010 | Referenced in: levels\multi\dlc\dlc_medium | N/A |
+| ⚠️ | N/A | Omaha E3 Firefight indev | 6-3-2010 | | N/A |
 | ❌ | 10888.10.06.03.2126.main | Lightmap Reference | 6-3-2010 | Referenced in: levels\solo\m05 | N/A |
 | ❌ | 10901.10.06.04.1350.main | Lightmap Reference | 6-4-2010 | Referenced in: levels\solo\m70_bonus | N/A |
 | ❌ | 10967.10.06.07.1005.main | Lightmap Reference | 6-7-2010 | Referenced in: levels\test\30_settlement_imposters | N/A |
 | ❌ | 11203.10.06.13.1711.main | Lightmap Reference | 6-13-2010 | Referenced in: levels\solo\m45 | N/A |
+| ⚠️ | N/A | Omaha Content Complete Ratings ESRB | 6-14-2010 | | N/A |
 | ❌ | 11275.10.06.15.2029.main | Lightmap Reference | 6-15-2010 | Referenced in: levels\solo\m35 | N/A |
 | ❌ | 11283.10.06.16.0903.main | Lightmap Reference | 6-16-2010 | Referenced in: levels\solo\m35 | N/A |
 | ❌ | 11291.10.06.16.1332.main | Lightmap Reference | 6-16-2010 | Referenced in: levels\solo\m35 | N/A |
@@ -163,6 +176,7 @@
 | ❌ | 11399.10.06.20.1357.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
 | ❌ | 11408.10.06.20.1846.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
 | ❌ | 11409.10.06.20.2025.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\multi\forge_halo | N/A |
+| ⚠️ | N/A | Omaha 7th Playtest and USK | 6-21-2010 | | N/A | 
 | ❌ | 11419.10.06.21.1335.main | Lightmap Reference | 6-21-2010 | Referenced in: levels\multi\30_settlement | N/A |
 | ❌ | 11459.10.06.22.1742.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\solo\m45 | N/A |
 | ❌ | 11464.10.06.22.1944.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\multi\45_aftship | N/A |
@@ -170,6 +184,8 @@
 | ❌ | 11497.10.06.23.2109.main | Lightmap Reference | 6-23-2010 | Referenced in: levels\solo\m10 | N/A |
 | ❌ | 11500.10.06.23.2201.main | Lightmap Reference | 6-23-2010 | Referenced in: levels\solo\m10 | N/A |
 | ❌ | 11516.10.06.24.1410.main | Lightmap Reference | 6-24-2010 | Referenced in: levels\solo\m10 | N/A |
+| ⚠️ | N/A | Omaha E3 Final Build | 6-25-2010 | | N/A | 
+| ⚠️ | N/A | Omaha Pipeline Supplemental | 6-25-2010 | | N/A |
 | ❌ | 11621.10.06.29.1616.main | Lightmap Reference | 6-29-2010 | Referenced in: levels\solo\m52 | N/A |
 | ❌ | 11626.10.06.29.1947.main | Lightmap Reference | 6-29-2010 | Referenced in: levels\solo\m10 | N/A |
 | ❌ | 11632.10.06.30.0001.main | Lightmap Reference | 6-30-2010 | Referenced in: levels\solo\m10 | N/A |
@@ -180,7 +196,10 @@
 | ❌ | 11704.10.07.06.1115.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\solo\m70 | N/A |
 | ❌ | 11705.10.07.06.1145.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
 | ❌ | 11708.10.07.06.1551.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\35_island | N/A |
+| ⚠️ | N/A | Omaha USK Resubmission | 7-7-2010 | | N/A |
+| ⚠️ | N/A | Omaha USK Resubmission 2 | 7-8-2010 | | N/A |
 | ❌ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | Referenced in: levels\multi\dlc\dlc_slayer | N/A |
+| ⚠️ | N/A | Omaha Release Candidate 3 Unofficial | 7-19-2010 | | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | English | 7-24-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | French | 7-24-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
@@ -195,11 +214,15 @@
 | ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | ✅ | *11860.10.07.24.0147 | Cache build | 7-24-2010 | Postdates the release by 18 minutes | N/A |
+| ⚠️ | N/A | Omaha RTX Unofficial | 7-29-2010 | | N/A |
+| ⚠️ | N/A | Omaha RTX Marketing Influencer | 7-30-2010 | | N/A |
 | ✅ | *11860.10.07.24.0147  | Cache build | 10-25-2010 | Rebuilt Cache Build | N/A |
 | ❌ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
 | ❌ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference | N/A |
+| ⚠️ | N/A | Omaha Contract Update | 9-17-2010 | | N/A |
 | ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
 | ✅ | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test | N/A |
+| ⚠️ | N/A | Omaha RTX Official | 8-10-2010 | | N/A |
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
