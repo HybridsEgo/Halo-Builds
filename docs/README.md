@@ -219,10 +219,10 @@
 | ✅ | *11860.10.07.24.0147  | Cache build | 10-25-2010 | Rebuilt Cache Build | N/A |
 | ❌ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
 | ❌ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference | N/A |
+| ⚠️ | N/A | Omaha RTX Official | 8-10-2010 | | N/A |
 | ⚠️ | N/A | Omaha Contract Update | 9-17-2010 | | N/A |
 | ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
 | ✅ | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test | N/A |
-| ⚠️ | N/A | Omaha RTX Official | 8-10-2010 | | N/A |
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 | ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
