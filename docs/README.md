@@ -199,7 +199,7 @@
 | ⚠️ | N/A | Milestone | 7-7-2010 | Omaha USK Resubmission | N/A |
 | ⚠️ | N/A | Milestone | 7-8-2010 | Omaha USK Resubmission 2 | N/A |
 | ❌ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | Referenced in: levels\multi\dlc\dlc_slayer | N/A |
-| ⚠️ | N/A | Omaha Release Candidate 3 Unofficial | 7-19-2010 | | N/A |
+| ⚠️ | N/A | Milestone | 7-19-2010 | Omaha Release Candidate 3 Unofficial | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | English | 7-24-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | French | 7-24-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
