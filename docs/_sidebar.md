@@ -6,7 +6,7 @@
   - [Halo 5](#halo-5)
   - [Halo Fireteam Raven](#halo-fireteam-raven)
 
-- Legacy Builds
+- [Legacy Builds](#xbox-360)
   
   - [Xbox 360](#xbox-360)
     
