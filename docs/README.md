@@ -222,10 +222,10 @@
 | ⚠️ | N/A | Omaha RTX Official | 8-10-2010 | | N/A |
 | ⚠️ | N/A | Omaha Contract Update | 9-17-2010 | | N/A |
 | ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
+| ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 | ✅ | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test | N/A |
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
-| ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 
 ### Title updates
 
