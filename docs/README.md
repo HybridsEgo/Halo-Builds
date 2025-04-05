@@ -176,7 +176,7 @@
 | ❌ | 11399.10.06.20.1357.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
 | ❌ | 11408.10.06.20.1846.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
 | ❌ | 11409.10.06.20.2025.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\multi\forge_halo | N/A |
-| ⚠️ | N/A | Milestone | 6-21-2010 | Omaha 7th Playtest and USK | N/A | 
+| ⚠️ | N/A | Milestone | 6-21-2010 | Omaha 7th Playtest and USK (German Game Rating Board) | N/A | 
 | ❌ | 11419.10.06.21.1335.main | Lightmap Reference | 6-21-2010 | Referenced in: levels\multi\30_settlement | N/A |
 | ❌ | 11459.10.06.22.1742.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\solo\m45 | N/A |
 | ❌ | 11464.10.06.22.1944.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\multi\45_aftship | N/A |
@@ -196,8 +196,8 @@
 | ❌ | 11704.10.07.06.1115.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\solo\m70 | N/A |
 | ❌ | 11705.10.07.06.1145.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
 | ❌ | 11708.10.07.06.1551.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\35_island | N/A |
-| ⚠️ | N/A | Milestone | 7-7-2010 | Omaha USK Resubmission | N/A |
-| ⚠️ | N/A | Milestone | 7-8-2010 | Omaha USK Resubmission 2 | N/A |
+| ⚠️ | N/A | Milestone | 7-7-2010 | Omaha USK Resubmission (German Game Rating Board) | N/A |
+| ⚠️ | N/A | Milestone | 7-8-2010 | Omaha USK Resubmission 2 (German Game Rating Board) | N/A |
 | ❌ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | Referenced in: levels\multi\dlc\dlc_slayer | N/A |
 | ⚠️ | N/A | Milestone | 7-19-2010 | Omaha Release Candidate 3 Unofficial | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
