@@ -132,50 +132,50 @@
 | ✅ | 09730.10.04.09.1309.omaha_delta | Beta | 4-9-2010 | Public Multiplayer Beta | 00000000000000000000000000000000 |
 | ⚠️ | N/A | Milestone | 5-6-2010 | Omaha 5th Playtest | N/A |
 | ⚠️ | N/A | Milestone | 5-7-2010 | Omaha Delta | N/A | 
-| ❌ | 10400.10.05.14.1449.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\temp\mickb\m52_gameplay_sandbox | N/A |
-| ❌ | 10403.10.05.14.1713.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\test\box | N/A |
-| ❌ | 10406.10.05.14.1850.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\reference\sound | N/A |
-| ❌ | 10411.10.05.14.2130.main | Lightmap Reference | 5-14-2010 | Referenced in: levels\solo\m45 | N/A |
-| ❌ | 10444.10.05.17.1327.main | Lightmap Reference | 5-17-2010 | Referenced in: levels\temp\paul\m45_060_interior_lights | N/A |
-| ❌ | 10467.10.05.18.1342.main | Lightmap Reference | 5-18-2010 | Referenced in: levels\temp\sshyp\fast_lightmap_test | N/A |
-| ❌ | 10501.10.05.20.0123.main | Lightmap Reference | 5-20-2010 | Referenced in: levels\solo\m30 | N/A |
-| ❌ | 10503.10.05.20.1109.main | Lightmap Reference | 5-20-2010 | Referenced in: levels\temp\object_review\review01 | N/A |
-| ❌ | 10585.10.05.24.0944.main | Lightmap Reference | 5-24-2010 | Referenced in: levels\temp\gbartlet\ragdoll_playground | N/A |
+| ❌ | 10400.10.05.14.1449.main | Lightmap Reference | 5-14-2010 | levels\temp\mickb\m52_gameplay_sandbox | N/A |
+| ❌ | 10403.10.05.14.1713.main | Lightmap Reference | 5-14-2010 | levels\test\box | N/A |
+| ❌ | 10406.10.05.14.1850.main | Lightmap Reference | 5-14-2010 | levels\reference\sound | N/A |
+| ❌ | 10411.10.05.14.2130.main | Lightmap Reference | 5-14-2010 | levels\solo\m45 | N/A |
+| ❌ | 10444.10.05.17.1327.main | Lightmap Reference | 5-17-2010 | levels\temp\paul\m45_060_interior_lights | N/A |
+| ❌ | 10467.10.05.18.1342.main | Lightmap Reference | 5-18-2010 | levels\temp\sshyp\fast_lightmap_test | N/A |
+| ❌ | 10501.10.05.20.0123.main | Lightmap Reference | 5-20-2010 | levels\solo\m30 | N/A |
+| ❌ | 10503.10.05.20.1109.main | Lightmap Reference | 5-20-2010 | levels\temp\object_review\review01 | N/A |
+| ❌ | 10585.10.05.24.0944.main | Lightmap Reference | 5-24-2010 | levels\temp\gbartlet\ragdoll_playground | N/A |
 | ⚠️ | N/A | Milestone | 5-28-2010 | Omaha 6th Playtest | N/A | 
-| ❌ | 10732.10.05.28.1021.main | Lightmap Reference | 5-28-2010 | Referenced in: levels\multi\45_launch_station | N/A |
-| ❌ | 10810.10.06.01.1630.main | Lightmap Reference | 6-1-2010 | Referenced in: levels\multi\dlc\dlc_medium | N/A |
+| ❌ | 10732.10.05.28.1021.main | Lightmap Reference | 5-28-2010 | levels\multi\45_launch_station | N/A |
+| ❌ | 10810.10.06.01.1630.main | Lightmap Reference | 6-1-2010 | levels\multi\dlc\dlc_medium | N/A |
 | ⚠️ | N/A | Milestone | 6-3-2010 | Omaha E3 Firefight in development playtest | N/A |
-| ❌ | 10888.10.06.03.2126.main | Lightmap Reference | 6-3-2010 | Referenced in: levels\solo\m05 | N/A |
-| ❌ | 10901.10.06.04.1350.main | Lightmap Reference | 6-4-2010 | Referenced in: levels\solo\m70_bonus | N/A |
-| ❌ | 10967.10.06.07.1005.main | Lightmap Reference | 6-7-2010 | Referenced in: levels\test\30_settlement_imposters | N/A |
-| ❌ | 11203.10.06.13.1711.main | Lightmap Reference | 6-13-2010 | Referenced in: levels\solo\m45 | N/A |
+| ❌ | 10888.10.06.03.2126.main | Lightmap Reference | 6-3-2010 | levels\solo\m05 | N/A |
+| ❌ | 10901.10.06.04.1350.main | Lightmap Reference | 6-4-2010 | levels\solo\m70_bonus | N/A |
+| ❌ | 10967.10.06.07.1005.main | Lightmap Reference | 6-7-2010 | levels\test\30_settlement_imposters | N/A |
+| ❌ | 11203.10.06.13.1711.main | Lightmap Reference | 6-13-2010 | levels\solo\m45 | N/A |
 | ⚠️ | N/A | Milestone | 6-14-2010 | Omaha Content Complete Ratings ESRB | N/A |
-| ❌ | 11275.10.06.15.2029.main | Lightmap Reference | 6-15-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11283.10.06.16.0903.main | Lightmap Reference | 6-16-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11291.10.06.16.1332.main | Lightmap Reference | 6-16-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11298.10.06.16.1638.main | Lightmap Reference | 6-16-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11313.10.06.17.1215.main | Lightmap Reference | 6-17-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11318.10.06.17.1520.main | Lightmap Reference | 6-17-2010 | Referenced in: levels\solo\m70 | N/A |
-| ❌ | 11332.10.06.17.2029.main | Lightmap Reference | 6-17-2010 | Referenced in: levels\multi\70_boneyard | N/A |
-| ❌ | 11333.10.06.17.2101.main | Lightmap Reference | 6-17-2010 | Referenced in: levels\solo\m45 | N/A |
-| ❌ | 11334.10.06.17.2134.main | Lightmap Reference | 6-17-2010 | Referenced in: levels\solo\m45 | N/A |
-| ❌ | 11341.10.06.18.0140.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m60 | N/A |
-| ❌ | 11341.10.06.18.0140.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\multi\52_ivory_tower | N/A |
-| ❌ | 11345.10.06.18.1042.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11356.10.06.18.1843.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m30 | N/A |
-| ❌ | 11363.10.06.18.2147.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11365.10.06.18.2233.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11366.10.06.18.2257.main | Lightmap Reference | 6-18-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11368.10.06.19.0000.main | Lightmap Reference | 6-19-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11371.10.06.19.0149.main | Lightmap Reference | 6-19-2010 | Referenced in: levels\solo\m45 | N/A |
-| ❌ | 11372.10.06.19.1042.main | Lightmap Reference | 6-19-2010 | Referenced in: levels\solo\m30 | N/A |
-| ❌ | 11390.10.06.19.2051.main | Lightmap Reference | 6-19-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11392.10.06.19.2138.main | Lightmap Reference | 6-19-2010 | Referenced in: levels\multi\35_island | N/A |
-| ❌ | 11394.10.06.20.0000.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m20 | N/A |
-| ❌ | 11396.10.06.20.0705.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
-| ❌ | 11399.10.06.20.1357.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
-| ❌ | 11408.10.06.20.1846.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\solo\m60 | N/A |
-| ❌ | 11409.10.06.20.2025.main | Lightmap Reference | 6-20-2010 | Referenced in: levels\multi\forge_halo | N/A |
+| ❌ | 11275.10.06.15.2029.main | Lightmap Reference | 6-15-2010 | levels\solo\m35 | N/A |
+| ❌ | 11283.10.06.16.0903.main | Lightmap Reference | 6-16-2010 | levels\solo\m35 | N/A |
+| ❌ | 11291.10.06.16.1332.main | Lightmap Reference | 6-16-2010 | levels\solo\m35 | N/A |
+| ❌ | 11298.10.06.16.1638.main | Lightmap Reference | 6-16-2010 | levels\solo\m35 | N/A |
+| ❌ | 11313.10.06.17.1215.main | Lightmap Reference | 6-17-2010 | levels\solo\m35 | N/A |
+| ❌ | 11318.10.06.17.1520.main | Lightmap Reference | 6-17-2010 | levels\solo\m70 | N/A |
+| ❌ | 11332.10.06.17.2029.main | Lightmap Reference | 6-17-2010 | levels\multi\70_boneyard | N/A |
+| ❌ | 11333.10.06.17.2101.main | Lightmap Reference | 6-17-2010 | levels\solo\m45 | N/A |
+| ❌ | 11334.10.06.17.2134.main | Lightmap Reference | 6-17-2010 | levels\solo\m45 | N/A |
+| ❌ | 11341.10.06.18.0140.main | Lightmap Reference | 6-18-2010 | levels\solo\m60 | N/A |
+| ❌ | 11341.10.06.18.0140.main | Lightmap Reference | 6-18-2010 | levels\multi\52_ivory_tower | N/A |
+| ❌ | 11345.10.06.18.1042.main | Lightmap Reference | 6-18-2010 | levels\solo\m35 | N/A |
+| ❌ | 11356.10.06.18.1843.main | Lightmap Reference | 6-18-2010 | levels\solo\m30 | N/A |
+| ❌ | 11363.10.06.18.2147.main | Lightmap Reference | 6-18-2010 | levels\solo\m52 | N/A |
+| ❌ | 11365.10.06.18.2233.main | Lightmap Reference | 6-18-2010 | levels\solo\m52 | N/A |
+| ❌ | 11366.10.06.18.2257.main | Lightmap Reference | 6-18-2010 | levels\solo\m52 | N/A |
+| ❌ | 11368.10.06.19.0000.main | Lightmap Reference | 6-19-2010 | levels\solo\m52 | N/A |
+| ❌ | 11371.10.06.19.0149.main | Lightmap Reference | 6-19-2010 | levels\solo\m45 | N/A |
+| ❌ | 11372.10.06.19.1042.main | Lightmap Reference | 6-19-2010 | levels\solo\m30 | N/A |
+| ❌ | 11390.10.06.19.2051.main | Lightmap Reference | 6-19-2010 | levels\solo\m35 | N/A |
+| ❌ | 11392.10.06.19.2138.main | Lightmap Reference | 6-19-2010 | levels\multi\35_island | N/A |
+| ❌ | 11394.10.06.20.0000.main | Lightmap Reference | 6-20-2010 | levels\solo\m20 | N/A |
+| ❌ | 11396.10.06.20.0705.main | Lightmap Reference | 6-20-2010 | levels\solo\m60 | N/A |
+| ❌ | 11399.10.06.20.1357.main | Lightmap Reference | 6-20-2010 | levels\solo\m60 | N/A |
+| ❌ | 11408.10.06.20.1846.main | Lightmap Reference | 6-20-2010 | levels\solo\m60 | N/A |
+| ❌ | 11409.10.06.20.2025.main | Lightmap Reference | 6-20-2010 | levels\multi\forge_halo | N/A |
 | ⚠️ | N/A | Milestone | 6-21-2010 | Omaha 7th Playtest and USK (German Game Rating Board) | N/A | 
 | ❌ | 11419.10.06.21.1335.main | Lightmap Reference | 6-21-2010 | Referenced in: levels\multi\30_settlement | N/A |
 | ❌ | 11459.10.06.22.1742.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\solo\m45 | N/A |
@@ -186,19 +186,19 @@
 | ❌ | 11516.10.06.24.1410.main | Lightmap Reference | 6-24-2010 | Referenced in: levels\solo\m10 | N/A |
 | ⚠️ | N/A | Milestone | 6-25-2010 | Omaha E3 Final Build | N/A | 
 | ⚠️ | N/A | Milestone | 6-25-2010 | Omaha Pipeline Supplemental | N/A |
-| ❌ | 11621.10.06.29.1616.main | Lightmap Reference | 6-29-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11626.10.06.29.1947.main | Lightmap Reference | 6-29-2010 | Referenced in: levels\solo\m10 | N/A |
-| ❌ | 11632.10.06.30.0001.main | Lightmap Reference | 6-30-2010 | Referenced in: levels\solo\m10 | N/A |
-| ❌ | 11644.10.06.30.1755.main | Lightmap Reference | 6-30-2010 | Referenced in: levels\solo\m52 | N/A |
-| ❌ | 11682.10.07.02.1806.main | Lightmap Reference | 7-2-2010 | Referenced in: levels\multi\20_sword_slayer | N/A |
-| ❌ | 11695.10.07.04.0000.main | Lightmap Reference | 7-4-2010 | Referenced in: levels\solo\m50 | N/A |
-| ❌ | 11696.10.07.04.1023.main | Lightmap Reference | 7-4-2010 | Referenced in: levels\solo\m20 | N/A |
-| ❌ | 11704.10.07.06.1115.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\solo\m70 | N/A |
-| ❌ | 11705.10.07.06.1145.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
-| ❌ | 11708.10.07.06.1551.main | Lightmap Reference | 7-6-2010 | Referenced in: levels\multi\35_island | N/A |
+| ❌ | 11621.10.06.29.1616.main | Lightmap Reference | 6-29-2010 | levels\solo\m52 | N/A |
+| ❌ | 11626.10.06.29.1947.main | Lightmap Reference | 6-29-2010 | levels\solo\m10 | N/A |
+| ❌ | 11632.10.06.30.0001.main | Lightmap Reference | 6-30-2010 | levels\solo\m10 | N/A |
+| ❌ | 11644.10.06.30.1755.main | Lightmap Reference | 6-30-2010 | levels\solo\m52 | N/A |
+| ❌ | 11682.10.07.02.1806.main | Lightmap Reference | 7-2-2010 | levels\multi\20_sword_slayer | N/A |
+| ❌ | 11695.10.07.04.0000.main | Lightmap Reference | 7-4-2010 | levels\solo\m50 | N/A |
+| ❌ | 11696.10.07.04.1023.main | Lightmap Reference | 7-4-2010 | levels\solo\m20 | N/A |
+| ❌ | 11704.10.07.06.1115.main | Lightmap Reference | 7-6-2010 | levels\solo\m70 | N/A |
+| ❌ | 11705.10.07.06.1145.main | Lightmap Reference | 7-6-2010 | levels\multi\dlc\dlc_invasion | N/A |
+| ❌ | 11708.10.07.06.1551.main | Lightmap Reference | 7-6-2010 | levels\multi\35_island | N/A |
 | ⚠️ | N/A | Milestone | 7-7-2010 | Omaha USK Resubmission (German Game Rating Board) | N/A |
 | ⚠️ | N/A | Milestone | 7-8-2010 | Omaha USK Resubmission 2 (German Game Rating Board) | N/A |
-| ❌ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | Referenced in: levels\multi\dlc\dlc_slayer | N/A |
+| ❌ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | levels\multi\dlc\dlc_slayer | N/A |
 | ⚠️ | N/A | Milestone | 7-19-2010 | Omaha Release Candidate 3 Unofficial | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | English | 7-24-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
@@ -217,11 +217,11 @@
 | ⚠️ | N/A | Milestone | 7-29-2010 | Omaha RTX Unofficial| N/A |
 | ⚠️ | N/A | Milestone | 7-30-2010 | Omaha RTX Marketing Influencer | N/A |
 | ✅ | *11860.10.07.24.0147  | Cache build | 10-25-2010 | Rebuilt Cache Build | N/A |
-| ❌ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | Referenced in: levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
-| ❌ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | Referenced in: levels\reference\lighting_reference | N/A |
+| ❌ | 11863.10.07.30.1141.main | Lightmap farm | 7-30-2010 | levels\multi\dlc\dlc_tests\rbros\dlc_invasion_prefabs | N/A |
+| ❌ | 11864.10.08.04.1520.main | Lightmap farm | 8-4-2010 | levels\reference\lighting_reference | N/A |
 | ⚠️ | N/A | Milestone | 8-10-2010 | Omaha RTX Official | N/A |
 | ⚠️ | N/A | Milestone | 9-17-2010 | Omaha Contract Update | N/A |
-| ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | Referenced in: levels\multi\dlc\dlc_invasion | N/A |
+| ❌ | 11878.10.09.29.1652.main | Lightmap farm | 9-29-2010 | levels\multi\dlc\dlc_invasion | N/A |
 | ✅ | 00095.11.04.09.1509.demo | Demo | 5-24-2011 | Demo | 00000000000000000000000000000000 |
 | ✅ | 11883.10.10.25.1227 | Tags build | 7-7-2011 | dlc 1 ship tag test | N/A |
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
