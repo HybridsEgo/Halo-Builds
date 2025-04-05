@@ -144,7 +144,7 @@
 | ⚠️ | N/A | Milestone | 5-28-2010 | Omaha 6th Playtest | N/A | 
 | ❌ | 10732.10.05.28.1021.main | Lightmap Reference | 5-28-2010 | Referenced in: levels\multi\45_launch_station | N/A |
 | ❌ | 10810.10.06.01.1630.main | Lightmap Reference | 6-1-2010 | Referenced in: levels\multi\dlc\dlc_medium | N/A |
-| ⚠️ | N/A | Milestone | 6-3-2010 | Omaha E3 Firefight indev | N/A |
+| ⚠️ | N/A | Milestone | 6-3-2010 | Omaha E3 Firefight in development playtest | N/A |
 | ❌ | 10888.10.06.03.2126.main | Lightmap Reference | 6-3-2010 | Referenced in: levels\solo\m05 | N/A |
 | ❌ | 10901.10.06.04.1350.main | Lightmap Reference | 6-4-2010 | Referenced in: levels\solo\m70_bonus | N/A |
 | ❌ | 10967.10.06.07.1005.main | Lightmap Reference | 6-7-2010 | Referenced in: levels\test\30_settlement_imposters | N/A |
