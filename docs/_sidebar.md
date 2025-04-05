@@ -2,7 +2,7 @@
  
   - [Halo The Master Chief Collection](#halo-the-master-chief-collection)
   - [Halo Infinite](#halo-infinite)
-  - [Halo Wars 2](#)
+  - [Halo Wars 2](#halo-wars-2)
   - [Halo 5](#halo-5)
   - [Halo Fireteam Raven](#halo-fireteam-raven)
 
