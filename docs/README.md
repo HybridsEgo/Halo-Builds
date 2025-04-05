@@ -177,13 +177,13 @@
 | ❌ | 11408.10.06.20.1846.main | Lightmap Reference | 6-20-2010 | levels\solo\m60 | N/A |
 | ❌ | 11409.10.06.20.2025.main | Lightmap Reference | 6-20-2010 | levels\multi\forge_halo | N/A |
 | ⚠️ | N/A | Milestone | 6-21-2010 | Omaha 7th Playtest and USK (German Game Rating Board) | N/A | 
-| ❌ | 11419.10.06.21.1335.main | Lightmap Reference | 6-21-2010 | Referenced in: levels\multi\30_settlement | N/A |
-| ❌ | 11459.10.06.22.1742.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\solo\m45 | N/A |
-| ❌ | 11464.10.06.22.1944.main | Lightmap Reference | 6-22-2010 | Referenced in: levels\multi\45_aftship | N/A |
-| ❌ | 11487.10.06.23.1539.main | Lightmap Reference | 6-23-2010 | Referenced in: levels\solo\m35 | N/A |
-| ❌ | 11497.10.06.23.2109.main | Lightmap Reference | 6-23-2010 | Referenced in: levels\solo\m10 | N/A |
-| ❌ | 11500.10.06.23.2201.main | Lightmap Reference | 6-23-2010 | Referenced in: levels\solo\m10 | N/A |
-| ❌ | 11516.10.06.24.1410.main | Lightmap Reference | 6-24-2010 | Referenced in: levels\solo\m10 | N/A |
+| ❌ | 11419.10.06.21.1335.main | Lightmap Reference | 6-21-2010 | levels\multi\30_settlement | N/A |
+| ❌ | 11459.10.06.22.1742.main | Lightmap Reference | 6-22-2010 | levels\solo\m45 | N/A |
+| ❌ | 11464.10.06.22.1944.main | Lightmap Reference | 6-22-2010 | levels\multi\45_aftship | N/A |
+| ❌ | 11487.10.06.23.1539.main | Lightmap Reference | 6-23-2010 | levels\solo\m35 | N/A |
+| ❌ | 11497.10.06.23.2109.main | Lightmap Reference | 6-23-2010 | levels\solo\m10 | N/A |
+| ❌ | 11500.10.06.23.2201.main | Lightmap Reference | 6-23-2010 | levels\solo\m10 | N/A |
+| ❌ | 11516.10.06.24.1410.main | Lightmap Reference | 6-24-2010 | levels\solo\m10 | N/A |
 | ⚠️ | N/A | Milestone | 6-25-2010 | Omaha E3 Final Build | N/A | 
 | ⚠️ | N/A | Milestone | 6-25-2010 | Omaha Pipeline Supplemental | N/A |
 | ❌ | 11621.10.06.29.1616.main | Lightmap Reference | 6-29-2010 | levels\solo\m52 | N/A |
