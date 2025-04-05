@@ -211,8 +211,8 @@
 | ❌ | 11860.10.07.24.0147.omaha_relea | Polish | 7-24-2010 | PAL | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Spanish (Mexican) | 7-24-2010 | NTSC | 3034EDCC9AB5D62738495F1642D18BEE |
 | ❌ | 11860.10.07.24.0147.omaha_relea | Spanish (Traditional) | 7-24-2010 | PAL | N/A |
-| ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
-| ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
+| ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs (Silver Variant) | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
+| ✅ | 11860.10.07.24.0147.omaha_relea | Partner Discs (Green Variant) | 7-24-2010 | XGD3 beta | DBBADFEBE890F4FAD1126638FFFFFDEB |
 | ✅ | *11860.10.07.24.0147 | Cache build | 7-24-2010 | Postdates the release by 18 minutes | N/A |
 | ⚠️ | N/A | Milestone | 7-29-2010 | Omaha RTX Unofficial| N/A |
 | ⚠️ | N/A | Milestone | 7-30-2010 | Omaha RTX Marketing Influencer | N/A |
