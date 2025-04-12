@@ -4,7 +4,6 @@
   - [Halo Infinite](#halo-infinite)
   - [Halo Wars 2](#halo-wars-2)
   - [Halo 5](#halo-5)
-  - [Halo Fireteam Raven](#halo-fireteam-raven)
 
 - [Legacy Builds](#xbox-360)
   
@@ -24,4 +23,5 @@
   - [Other](#other)
   
     - [Halo Online](#halo-online)
+    - [Halo Fireteam Raven](#halo-fireteam-raven)
     - [ - Halo 2 Vista](#)
