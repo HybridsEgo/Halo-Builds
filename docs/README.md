@@ -239,6 +239,12 @@
 > | 63681F4C | 0000000A | [Link]()| None |
 > | 00394009 | 00000067 | [Link]()| CEA |
 
+## Halo 2 Anniversary
+
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-14 | |
+
 ## Halo 3
 
 | Build | Type | Date | Notes | MediaId |
