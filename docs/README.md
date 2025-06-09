@@ -89,8 +89,7 @@
 | ✅ | 74973.15.10.13.1456-0.main | Delta | 1.1.9438.0 | 10-13-2015 | None |
 | ✅ | 74986.15.10.13.1727-0.main | Delta | 1.1.9451.0 | 10-13-2015 | None |
 | ✅ | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
-| ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
- 
+| ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None | 
 
 # Legacy Builds
 ## Halo: Reach
