@@ -1,4 +1,4 @@
-# Modern (Xbox One / Xbox Series / PC)
+# Modern Builds
 ## Halo: The Master Chief Collection
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
@@ -92,7 +92,7 @@
 | ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
  
 
-# Legacy
+# Legacy Builds
 ## Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
