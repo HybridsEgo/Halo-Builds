@@ -1,5 +1,4 @@
-# Modern Builds
-## Halo: The Master Chief Collection
+# Halo: The Master Chief Collection
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ✅ | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
@@ -21,7 +20,7 @@
 | ✅ | 2024.01.03.177898.1-Release | Release | 1.3385.0.0 | 1-3-2024 | None |
 | ✅ | 2025.02.25.178468.1-Release | Release | 1.3495.0.0 | 2-25-2025 | February Update (EAC Patch) |
 
-## Halo Infinite
+# Halo Infinite
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
@@ -67,13 +66,13 @@
 | ✅ | 264397.25.04.10.1801-1.hi_1_11_0 | Release | 4-10-2025 | Summer Update 2025 |
 | ❌ | TBA | Release | 6-10-2025 | Operation: Legacy |
 
-## Halo Wars 2
+# Halo Wars 2
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 582479.blitz-beta | PC Beta | 12-20-2016 | None |
 | ✅ | 583925.blitz-beta | PC Beta | 1-5-2017 | None |
 
-## Halo 5
+# Halo 5
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ✅ | 66188.15.08.03.1256-0.main | Delta | 1.1.653.0 | 8-3-2015 | None |
@@ -91,8 +90,7 @@
 | ✅ | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
 | ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None | 
 
-# Legacy Builds
-## Halo: Reach
+# Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
 | ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N/A |
@@ -219,7 +217,7 @@
 | ✅ | 12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | Title update 1 | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 
-### Title updates
+## Title updates
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 046D17EE | 00000002 | [Link]()| French |
@@ -235,8 +233,7 @@
 > | 63681F4C | 0000000A | [Link]()| None |
 > | 00394009 | 00000067 | [Link]()| CEA |
 
-## Halo 3
-
+# Halo 3
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 05241.06.09.21.1534.first_playt | | 9-21-2006 | None | |
@@ -260,8 +257,7 @@
 | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
 | 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
 
-### Title updates
-
+## Title updates
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 1B3DCDA5 | 00000008 | | |
@@ -277,8 +273,7 @@
 > | 77C91AB1 | 00000006 | | |
 > | 7CC94155 | 00000009 | | |
 
-## Halo 3: ODST
-
+# Halo 3: ODST
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | 13895.09.04.27.2201.atlas_relea | Chinese (Traditional) | 10-22-2009 | |
@@ -293,8 +288,7 @@
 | 13895.09.04.27.2201.atlas_relea | Spanish (Mexican) | 10-22-2009 | |
 | 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
 
-## Halo 4
-
+# Halo 4
 | Build | Type | Date | Notes | MediaId |
 | ----- | ---- | ---------- | ----- | ------- |
 | *Untracked | Untracked Tags Build | 8-22-2011 | | N/A |
@@ -340,8 +334,7 @@
 | 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail | |
 | *Untracked | Tags Build | 11-13-2013 | | |
 
-### Title updates
-
+## Title updates
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 1C9D20BC | 0000000F | | |
@@ -357,8 +350,7 @@
 > | 60AF2E00 | 00000027 | | |
 > | 6692453C | 00000013 | | |
 
-## Halo wars
-
+# Halo wars
 | Build | Type | Date | Notes |
 | ----- | ---- | ---- | ----- |
 | 093106 | Alpha | 02-21-2008 | |
@@ -367,7 +359,7 @@
 | 153945 | | 12-12-2008 | |
 | | | 11-09-2009 | Bonfire Studios Test Game |
 
-## Halo 2
+# Halo 2
 | Available | Build | Type | Date | Notes | 
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | | Alpha | 1-7-2004 | |
@@ -375,13 +367,12 @@
 | ✅ | | Multiplayer Beta | 6-28-2004 | |
 | ❌ | Pre-Cert 02.08.28.09214 | DLC Map prototype | 8-28-2004 | |
 
-## Halo 2 Anniversary
-
+# Halo 2 Anniversary
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-14 | |
 
-## Halo: CE
+# Halo: CE
 | Available | Build | Type | Date | Notes | 
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 01.00.10.0621 | Speartest | 10-22-1999 | 2024 Halo Digsite leak (PC) |
@@ -397,8 +388,7 @@
 | ✅ | 01.08.05.0452 | PC Demo Beta | 8-6-2003 | Pre-Gold |
 | ✅ | | PC Demo | 9-30-2003 | |
 
-## Halo Online
-
+# Halo Online
 | Build | Type | Date | Notes |
 | ----- | ---- | ---- | ----- |
 | 1.106708 | cert_ms23 | 3-20-2015 | Used by Eldewrito |
@@ -421,8 +411,7 @@
 | 11.1.604673 | Live | 10-1502015 | None |
 | 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
 
-## Halo Fireteam Raven
-
+# Halo Fireteam Raven
 | Available | Build | Type | Date | Notes | 
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 5506_P2 | Release? | | |
