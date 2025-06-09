@@ -192,6 +192,7 @@
 | ❌ | N/A | Milestone | 7-8-2010 | Omaha USK Resubmission 2 (German Game Rating Board) | N/A |
 | ⚠️ | 11750.10.07.08.1618.main | Lightmap Reference | 7-8-2010 | levels\multi\dlc\dlc_slayer | N/A |
 | ❌ | N/A | Milestone | 7-19-2010 | Omaha Release Candidate 3 Unofficial | N/A |
+| ❌ | N/A | DLC Milestone | DLC | 7-21-2010 | Anchor 9 Blockout | N/A |
 | ✅ | 11860.10.07.24.0147.omaha_relea | Chinese (Traditional) | 7-24-2010 | NTSCJ | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | English | 7-24-2010 | NTSC | D5F8036CA497AFADC59687E1566C10D3 |
 | ✅ | 11860.10.07.24.0147.omaha_relea | French | 7-24-2010 | PAL | C4C5055F6C2B9A14F475CF27046D17EE |
@@ -235,12 +236,6 @@
 > | 63681F4C | 0000000A | [Link]()| None |
 > | 00394009 | 00000067 | [Link]()| CEA |
 
-## Halo 2 Anniversary
-
-| Available | Build | Type | Date | Notes |
-| --------- | ----- | ---- | ---- | ----- |
-| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-14 | |
-
 ## Halo 3
 
 | Build | Type | Date | Notes | MediaId |
@@ -270,6 +265,18 @@
 
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
+> | 1B3DCDA5 | 00000008 | | |
+> | 1CDE207A | 0000002C | | |
+> | 266FAB17 | 00000007 | | |
+> | 38EE4C8B | 0000003B | | |
+> | 3DFC2730 | 00000005 | | |
+> | 543B3F61 | 00000002 | | |
+> | 580B4651 | 00000003 | | |
+> | 5FB8D7D8 | 0000000A | | |
+> | 699E0227 | 0000002A | | |
+> | 699E0227 | 0000002F | | |
+> | 77C91AB1 | 00000006 | | |
+> | 7CC94155 | 00000009 | | |
 
 ## Halo 3: ODST
 
@@ -338,6 +345,18 @@
 
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
+> | 1C9D20BC | 0000000F | | |
+> | 1F887267 | 00000021 | | |
+> | 1F887267 | 00000021 | | |
+> | 21F53396 | 0000001A | | |
+> | 3034DA81 | 00000026 | | |
+> | 30AA21F9 | 00000016 | | |
+> | 38AA21C2 | 0000001C | | |
+> | 4277ACB5 | 00000010 | | |
+> | 4CB283E9 | 0000000A | | |
+> | 4E5FE623 | 0000000C | | |
+> | 60AF2E00 | 00000027 | | |
+> | 6692453C | 00000013 | | |
 
 ## Halo wars
 
@@ -348,6 +367,20 @@
 | | | 11-21-2008 | |
 | 153945 | | 12-12-2008 | |
 | | | 11-09-2009 | Bonfire Studios Test Game |
+
+## Halo 2
+| Available | Build | Type | Date | Notes | 
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | | Alpha | 1-7-2004 | |
+| ✅ | | (e3_04_6966) Multiplayer Alpha | 5-6-2004 | |
+| ✅ | | Multiplayer Beta | 6-28-2004 | |
+| ❌ | Pre-Cert 02.08.28.09214 | DLC Map prototype | 8-28-2004 | |
+
+## Halo 2 Anniversary
+
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-14 | |
 
 ## Halo: CE
 | Available | Build | Type | Date | Notes | 
@@ -364,13 +397,6 @@
 | ✅ | 01.07.30.0450 | PC Beta | 7-30-2003 | |
 | ✅ | 01.08.05.0452 | PC Demo Beta | 8-6-2003 | Pre-Gold |
 | ✅ | | PC Demo | 9-30-2003 | |
-
-
-## Halo Fireteam Raven
-
-| Available | Build | Type | Date | Notes | 
-| --------- | ----- | ---- | ---- | ----- |
-| ✅ | 5506_P2 | Release? | | |
 
 ## Halo Online
 
@@ -395,3 +421,9 @@
 | 11.1.571698 | Live | 10-1-2015 | None |
 | 11.1.604673 | Live | 10-1502015 | None |
 | 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
+
+## Halo Fireteam Raven
+
+| Available | Build | Type | Date | Notes | 
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 5506_P2 | Release? | | |
