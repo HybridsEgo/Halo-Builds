@@ -1,6 +1,5 @@
-# Modern Halo
+# Modern (Xbox One / Xbox Series / PC)
 ## Halo: The Master Chief Collection
-
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ✅ | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
@@ -23,7 +22,6 @@
 | ✅ | 2025.02.25.178468.1-Release | Release | 1.3495.0.0 | 2-25-2025 | February Update (EAC Patch) |
 
 ## Halo Infinite
-
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 199229.21.07.20.0001-2.flt002int | Flight | 7-29-2021 | MGS Test App 6 Tech Preview |
@@ -64,20 +62,18 @@
 | ✅ | 259737.24.09.19.0944-3.hi_1_8_0 | Release | 9-19-2024 | Easy anti-cheat added |
 | ✅ | 260506.24.10.23.1155-4.hi_1_9_0 | Release | 10-23-2024 | None |
 | ✅ | 261084.24.11.18.1712-0.hi_1_9_0 | Release | 11-18-2024 | Operation: Snowbound |
-| ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 | Operation: Frontlines - Spring Update 2025 |
+| ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 | Operation: Frontlines (Spring Update 2025) |
 | ✅ | 263865.25.03.19.1809-2.hi_1_10_0 | Release | 3-19-2025 | Operation: Forerunner |
 | ✅ | 264397.25.04.10.1801-1.hi_1_11_0 | Release | 4-10-2025 | Summer Update 2025 |
 | ❌ | TBA | Release | 6-10-2025 | Operation: Legacy |
 
 ## Halo Wars 2
-
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ✅ | 582479.blitz-beta | PC Beta | 12-20-2016 | None |
 | ✅ | 583925.blitz-beta | PC Beta | 1-5-2017 | None |
 
 ## Halo 5
-
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ✅ | 66188.15.08.03.1256-0.main | Delta | 1.1.653.0 | 8-3-2015 | None |
@@ -95,9 +91,9 @@
 | ✅ | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
 | ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
  
-# Xbox 360
-## Halo: Reach
 
+# Legacy
+## Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
 | ❌ | 02974.09.01.28.1655.main | Omaha | 1-28-2009 | Digsite | N/A |
@@ -224,7 +220,6 @@
 | ✅ | *12065.11.08.24.1738.tu1actual | TU1 | 8-24-2011 | CEA (TU1) | 634FE0D37A6A592D3B0C721100394009 |
 
 ### Title updates
-
 > | MediaId | Base Version | Link | Notes |
 > | ------- | ------------ | ---- | ----- |
 > | 046D17EE | 00000002 | [Link]()| French |
@@ -354,7 +349,22 @@
 | 153945 | | 12-12-2008 | |
 | | | 11-09-2009 | Bonfire Studios Test Game |
 
-# Other
+## Halo: CE
+| Available | Build | Type | Date | Notes | 
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 01.00.10.0621 | Speartest | 10-22-1999 | 2024 Halo Digsite leak (PC) |
+| ✅ |               | e32k | 5-25-2000 | 2024 Halo Digsite leak (PC) |
+| ✅ |               | 2000_12_21 | 11-16-2000 | 2024 Halo Digsite leak (PC)  |
+| ✅ | 01.08.15.1749 | 1749 | 8-15-2001 |  |
+| ✅ | 01.09.22.2247 | 2247 | 9-22-2001 | |
+| ✅ | 01.10.12.2276 | 2276 | 10-12-2001 | |
+| ✅ | 01.01.14.2342 | 2342 | 1-14-2002 | |
+| ✅ |  | Xbox Demo | 2-25-2002 | |
+| ✅ | 01.05.22.0268 | PC Beta | 5-22-2003 | Campaign Beta 1 |
+| ✅ | 01.07.30.0450 | PC Beta | 7-30-2003 | |
+| ✅ | 01.08.05.0452 | PC Demo Beta | 8-6-2003 | Pre-Gold |
+| ✅ | | PC Demo | 9-30-2003 | |
+
 
 ## Halo Fireteam Raven
 

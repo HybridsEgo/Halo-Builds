@@ -1,4 +1,4 @@
-- [Modern Builds](#modern-halo)
+- [Modern Builds](#modern)
  
   - [Halo The Master Chief Collection](#halo-the-master-chief-collection)
   - [Halo Infinite](#halo-infinite)
@@ -17,7 +17,7 @@
   
   - Xbox
   
-    - [ - Halo CE](#)
+    - [ - Halo CE](#halo-ce)
     - [ - Halo 2](#)
 
   - [Other](#other)
