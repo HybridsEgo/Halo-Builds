@@ -8,4 +8,4 @@
 </small> We're all approaching the heat death of the universe. </small>
 
 [Modern Builds](#halo-the-master-chief-collection)
-[Legacy Builds](#xbox-360)
+[Legacy Builds](#halo-reach)
