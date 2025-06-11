@@ -64,7 +64,7 @@
 | ✅ | 262282.25.01.09.1801-0.hi_1_10_0 | Release | 1-9-2025 | Operation: Frontlines (Spring Update 2025) |
 | ✅ | 263865.25.03.19.1809-2.hi_1_10_0 | Release | 3-19-2025 | Operation: Forerunner |
 | ✅ | 264397.25.04.10.1801-1.hi_1_11_0 | Release | 4-10-2025 | Summer Update 2025 |
-| ❌ | TBA | Release | 6-10-2025 | Operation: Legacy |
+| ✅ | 265293.25.05.20.1453-1.hi_1_11_0 | Release | 5-20-2025 | Operation: Legacy |
 
 # Halo Wars 2
 | Available | Build | Type | Date | Notes |
