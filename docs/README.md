@@ -234,28 +234,28 @@
 > | 00394009 | 00000067 | [Link]()| CEA |
 
 # Halo 3
-| Build | Type | Date | Notes | MediaId |
-| ----- | ---- | ---------- | ----- | ------- |
-| 05241.06.09.21.1534.first_playt | | 9-21-2006 | None | |
-| 06481.06.11.17.1330.alpha_relea | | 11-17-2006 | Pimps at Sea | |
-| 08117.07.03.07.1702.delta | Cache Build | 3-7-2007 | None | |
-| 08172.07.03.08.2240.delta | Cache Build | 3-8-2007 | None | |
-| 09699.07.05.01.1534.delta | Multiplayer beta | 5-1-2007 | None | |
-| 10015.07.05.14.2217.delta | Multiplayer beta | 5-14-2007 | TU for 09699.07.05.01.1534.delta | |
-| 11637.07.08.02.2348.release | | 8-2-2007 | None | |
-| 11687.07.08.06.1504.main | DLC test | 8-6-2007 | DLC Halo3 Test DLC | |
-| 11729.07.08.10.0021.main | Expo | 8-10-2007 | None | |
-| 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | English | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | French | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | German | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Italian | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Portuguese | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Polish | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Mexican) | |
-| 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
-| 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
+| Available | Build | Type | Date | Notes | MediaId |
+| --------- | ----- | ---- | ---------- | ----- | ------- |
+| ✅ | 05241.06.09.21.1534.first_playt | | 9-21-2006 | None | |
+| ✅ | 06481.06.11.17.1330.alpha_relea | | 11-17-2006 | Pimps at Sea | |
+| ✅ | 08117.07.03.07.1702.delta | Cache Build | 3-7-2007 | None | |
+| ✅ | 08172.07.03.08.2240.delta | Cache Build | 3-8-2007 | None | |
+| ✅ | 09699.07.05.01.1534.delta | Multiplayer beta | 5-1-2007 | None | |
+| ✅ | 10015.07.05.14.2217.delta | Multiplayer beta | 5-14-2007 | TU for 09699.07.05.01.1534.delta | |
+| ✅ | 11637.07.08.02.2348.release | | 8-2-2007 | None | |
+| ✅ | 11687.07.08.06.1504.main | DLC test | 8-6-2007 | DLC Halo3 Test DLC | |
+| ✅ | 11729.07.08.10.0021.main | Expo | 8-10-2007 | None | |
+| ✅ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | English | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | French | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | German | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Italian | |
+| ✅ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
+| ✅ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Portuguese | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Polish | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Mexican) | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
+| ✅ | 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
 
 ## Title updates
 > | MediaId | Base Version | Link | Notes |
@@ -274,65 +274,65 @@
 > | 7CC94155 | 00000009 | | |
 
 # Halo 3: ODST
-| Build | Type | Date | Notes | MediaId |
-| ----- | ---- | ---------- | ----- | ------- |
-| 13895.09.04.27.2201.atlas_relea | Chinese (Traditional) | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | English | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | French | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | German | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Italian | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Japanese | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Korean | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Portuguese | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Polish | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Spanish (Mexican) | 10-22-2009 | |
-| 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
+| Available | Build | Type | Date | Notes | MediaId |
+| --------- | ----- | ---- | ---------- | ----- | ------- |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Chinese (Traditional) | 10-22-2009 | |
+| ✅ | 13895.09.04.27.2201.atlas_relea | English | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | French | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | German | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Italian | 10-22-2009 | |
+| ✅ | 13895.09.04.27.2201.atlas_relea | Japanese | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Korean | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Portuguese | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Polish | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Spanish (Mexican) | 10-22-2009 | |
+| ❌ | 13895.09.04.27.2201.atlas_relea | Spanish (Traditional) | 10-22-2009 | |
 
 # Halo 4
-| Build | Type | Date | Notes | MediaId |
-| ----- | ---- | ---------- | ----- | ------- |
-| *Untracked | Untracked Tags Build | 8-22-2011 | | N/A |
-| *Untracked | Untracked Cache Build | 9-19-2011 | | N/A |
-| 07745.11.09.27.1746.horse | Tags Build | 9-28-2011 | | N/A |
-| 07866.11.10.04.1335-0 | Cache Build | 10-4-2011 | | N/A |
-| 07867.11.10.04.1338 | Cache Build | 10-5-2011 | | N/A |
-| *Untracked (343v_summlo) | Cache Build | 10-12-2011 | | N/A |
-| 08113.11.10.14.0230-1 | Cache Build | 10-14-2011 | No XEXs or Waves | N/A |
-| 08257.11.10.20.0230-0 | Beta | 10-20-2011 | | N/A |
-| 08257.11.10.20.0230-2 | Beta | 10-20-2011 | | N/A |
-| *Untracked | Cache Build | 11-15-2011 | | N/A |
-| 09550.11.12.21.0300-0 | Cache Build | 12-21-2011 | | N/A |
-| 14064.12.05.05.1011.beta | Beta | 5-5-2012 | Network Test | N/A |
-| 15116.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | War Games demo | N/A | 
-| 15117.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | Spartan Ops demo | N/A |
-| 15119.12.05.31.0400.e3m60 | E3 Demo | 5-31-2012 | Campaign demo | N/A |
-| *Untracked | DLC | 7-17-2012 | Dumped from Test Chamber level DLC | N/A | 
-| 16531.12.07.05.0200.main | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
-| 16587.12.07.05.2141.precert | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
-| 17539.12.07.24.0200.main | DLC | 7-24-2012 | Dumped from Test Chamber level DLC | N/A |
-| 18223.12.08.06.0200.main | DLC | 8-6-2012 | Dumped from Test Chamber level DLC | N/A |
-| 18845.12.08.16.0200.main | DLC | 8-16-2012 | Dumped from Test Chamber level DLC | N/A |
-| 19057.12.08.19.0400.main | DLC | 8-19-2012 | Dumped from Test Chamber level DLC | N/A |
-| 20190.12.09.05.0200.main | DLC | 9-9-2012 | Dumped from Test Chamber level DLC | N/A |
-| 20703.12.09.16.0400.main | DLC | 9-16-2012 | Dumped from Test Chamber level DLC | N/A |
-| 20744.12.09.18.0100.main | DLC | 9-18-2012 | Dumped from Test Chamber level DLC | N/A |
-| 20810.12.09.22.1647.main | Chinese (Traditional) | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | English | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | French | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | German | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Italian | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Japanese | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Korean | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Portuguese | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Polish | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Spanish (Mexican) | 9-22-2012 | Retail | |
-| 20810.12.09.22.1647.main | Spanish (Traditional) | 9-22-2012 | Retail | |
-| 21122.12.11.21.0101.main | TU2 | 11-21-2012 | Retail | |
-| 21165.12.12.12.0112.main | TU3 | 12-12-2012 | Retail | |
-| *19057.12.08.19.0400.main | Tags Build | 1-14-2013 | |
-| 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail | |
-| 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail | |
-| *Untracked | Tags Build | 11-13-2013 | | |
+| Available | Build | Type | Date | Notes | MediaId |
+| --------- | ----- | ---- | ---------- | ----- | ------- |
+| ✅ | *Untracked | Untracked Tags Build | 8-22-2011 | | N/A |
+| ✅ | *Untracked | Untracked Cache Build | 9-19-2011 | | N/A |
+| ✅ | 07745.11.09.27.1746.horse | Tags Build | 9-28-2011 | | N/A |
+| ✅ | 07866.11.10.04.1335-0 | Cache Build | 10-4-2011 | | N/A |
+| ✅ | 07867.11.10.04.1338 | Cache Build | 10-5-2011 | | N/A |
+| ✅ | *Untracked (343v_summlo) | Cache Build | 10-12-2011 | | N/A |
+| ✅ | 08113.11.10.14.0230-1 | Cache Build | 10-14-2011 | No XEXs or Waves | N/A |
+| ✅ | 08257.11.10.20.0230-0 | Beta | 10-20-2011 | | N/A |
+| ✅ | 08257.11.10.20.0230-2 | Beta | 10-20-2011 | | N/A |
+| ✅ | *Untracked | Cache Build | 11-15-2011 | | N/A |
+| ✅ | 09550.11.12.21.0300-0 | Cache Build | 12-21-2011 | | N/A |
+| ✅ | 14064.12.05.05.1011.beta | Beta | 5-5-2012 | Network Test | N/A |
+| ✅ | 15116.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | War Games demo | N/A | 
+| ✅ | 15117.12.05.31.0300.e3 | E3 Demo | 5-31-2012 | Spartan Ops demo | N/A |
+| ✅ | 15119.12.05.31.0400.e3m60 | E3 Demo | 5-31-2012 | Campaign demo | N/A |
+| ⚠️ | *Untracked | DLC | 7-17-2012 | Dumped from Test Chamber level DLC | N/A | 
+| ⚠️ | 16531.12.07.05.0200.main | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 16587.12.07.05.2141.precert | DLC | 7-5-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 17539.12.07.24.0200.main | DLC | 7-24-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 18223.12.08.06.0200.main | DLC | 8-6-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 18845.12.08.16.0200.main | DLC | 8-16-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 19057.12.08.19.0400.main | DLC | 8-19-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 20190.12.09.05.0200.main | DLC | 9-9-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 20703.12.09.16.0400.main | DLC | 9-16-2012 | Dumped from Test Chamber level DLC | N/A |
+| ⚠️ | 20744.12.09.18.0100.main | DLC | 9-18-2012 | Dumped from Test Chamber level DLC | N/A |
+| ✅ | 20810.12.09.22.1647.main | Chinese (Traditional) | 9-22-2012 | Retail | |
+| ✅ | 20810.12.09.22.1647.main | English | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | French | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | German | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | Italian | 9-22-2012 | Retail | |
+| ✅ | 20810.12.09.22.1647.main | Japanese | 9-22-2012 | Retail | |
+| ✅ | 20810.12.09.22.1647.main | Korean | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | Portuguese | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | Polish | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | Spanish (Mexican) | 9-22-2012 | Retail | |
+| ❌ | 20810.12.09.22.1647.main | Spanish (Traditional) | 9-22-2012 | Retail | |
+| ✅ | 21122.12.11.21.0101.main | TU2 | 11-21-2012 | Retail | |
+| ✅ | 21165.12.12.12.0112.main | TU3 | 12-12-2012 | Retail | |
+| ✅ | *19057.12.08.19.0400.main | Tags Build | 1-14-2013 | |
+| ✅ | 21339.13.02.05.0117.main | TU4 | 2-5-2013 | Retail | |
+| ✅ | 21391.13.03.13.1711.main | TU5 | 3-13-2013 | Retail | |
+| ✅ | *Untracked | Tags Build | 11-13-2013 | | |
 
 ## Title updates
 > | MediaId | Base Version | Link | Notes |
@@ -351,13 +351,13 @@
 > | 6692453C | 00000013 | | |
 
 # Halo wars
-| Build | Type | Date | Notes |
-| ----- | ---- | ---- | ----- |
-| 093106 | Alpha | 02-21-2008 | |
-| | | 11-06-2008 | |
-| | | 11-21-2008 | |
-| 153945 | | 12-12-2008 | |
-| | | 11-09-2009 | Bonfire Studios Test Game |
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 093106 | Alpha | 02-21-2008 | |
+| ✅ | | | 11-06-2008 | |
+| ✅ | | | 11-21-2008 | |
+| ✅ | 153945 | | 12-12-2008 | |
+| ✅ | | | 11-09-2009 | Bonfire Studios Test Game |
 
 # Halo 2
 | Available | Build | Type | Date | Notes | 
@@ -389,27 +389,27 @@
 | ✅ | | PC Demo | 9-30-2003 | |
 
 # Halo Online
-| Build | Type | Date | Notes |
-| ----- | ---- | ---- | ----- |
-| 1.106708 | cert_ms23 | 3-20-2015 | Used by Eldewrito |
-| 1.155080 | cert_ms23 | 4-10-2015 | None |
-| 1.171227 | cert_ms23 | 4-17-2015 | None |
-| 1.235640 | cert_ms25 | 4-21-2015 | None |
-| 1.301003 | cert_MS26_new | 5-19-2015 | None |
-| 4.1.332089 | Live | 6-13-2015 | None |
-| 8.1.373869 | Live | 6-29-2015 | None |
-| 9.1.416138 | Live | 7-13-2015 | None |
-| 10.1.430653 | Live | 8-1-2015 | None |
-| 10.1.454665 | Live | 8-7-2015 | None |
-| 10.1.479394 | Live | 8-19-2015 | None |
-| 11.1.498295 | Live | 8-27-2015 | None |
-| 11.1.530945 | Live | 9-3-2015 | None |
-| 11.1.533032 | Live | 9-16-2015 | None |
-| 11.1.554482 | Live | 9-17-2015 | None |
-| 11.1.571698 | Live | 9-25-2015 | None |
-| 11.1.571698 | Live | 10-1-2015 | None |
-| 11.1.604673 | Live | 10-1502015 | None |
-| 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 1.106708 | cert_ms23 | 3-20-2015 | Used by Eldewrito |
+| ✅ | 1.155080 | cert_ms23 | 4-10-2015 | None |
+| ✅ | 1.171227 | cert_ms23 | 4-17-2015 | None |
+| ✅ | 1.235640 | cert_ms25 | 4-21-2015 | None |
+| ✅ | 1.301003 | cert_MS26_new | 5-19-2015 | None |
+| ✅ | 4.1.332089 | Live | 6-13-2015 | None |
+| ✅ | 8.1.373869 | Live | 6-29-2015 | None |
+| ✅ | 9.1.416138 | Live | 7-13-2015 | None |
+| ✅ | 10.1.430653 | Live | 8-1-2015 | None |
+| ✅ | 10.1.454665 | Live | 8-7-2015 | None |
+| ✅ | 10.1.479394 | Live | 8-19-2015 | None |
+| ✅ | 11.1.498295 | Live | 8-27-2015 | None |
+| ✅ | 11.1.530945 | Live | 9-3-2015 | None |
+| ✅ | 11.1.533032 | Live | 9-16-2015 | None |
+| ✅ | 11.1.554482 | Live | 9-17-2015 | None |
+| ✅ | 11.1.571698 | Live | 9-25-2015 | None |
+| ✅ | 11.1.571698 | Live | 10-1-2015 | None |
+| ✅ | 11.1.604673 | Live | 10-1502015 | None |
+| ✅ | 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
 
 # Halo Fireteam Raven
 | Available | Build | Type | Date | Notes | 
