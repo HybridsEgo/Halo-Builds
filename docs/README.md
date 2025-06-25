@@ -1,6 +1,7 @@
 # Halo: The Master Chief Collection
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
+| ✅ | 737.14.12.02.0755.uui-42.shelf-CHSTest | Release |  | 7-29-2015 | MCC China |
 | ❌ | Unknown | Flight | 1.453.0.0 | 7-7-2018 | Swordflying restored in Campaign |
 | ❌ | Unknown | Flight | 1.507.0.0 | 8-15-2018 | Playtest for H1/H2/H2A/H3 |
 | ✅ | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
