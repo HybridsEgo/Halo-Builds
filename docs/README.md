@@ -2,6 +2,7 @@
 | Available | Build | Type | Version | Date | Notes |
 | --------- | ----- | ---- | ------- | ---- | ----- |
 | ❌ | Unknown | Flight | 1.453.0.0 | | Swordflying restored in Campaign |
+| ❌ | Unknown | Flight | 1.507.0.0 | | Playtest for H1/H2/H2A/H3 |
 | ✅ | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
 | ✅ | 2019.08.20.56885.3-Nightly-Release | Flight | 1.1035.0.0 | 8-20-2019 | HR |
 | ✅ | 2019.10.26.64867.1-Nightly-Ring1 | Flight | 1.1186.0.0 | 10-26-2019 | HR |
