@@ -241,25 +241,25 @@
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---------- | ----- | ------- |
 | ❌ | 02872.04.04.20.2002.e3_2006 | | 4-20-06 | Deleted? [Tweet](https://i.imgur.com/RzWFmyx.jpeg) by @craftycodie | |
-| ✅ | 05241.06.09.21.1534.first_playt | | 9-21-2006 | None | |
-| ✅ | 06481.06.11.17.1330.alpha_relea | | 11-17-2006 | Pimps at Sea | |
-| ✅ | 08117.07.03.07.1702.delta | Cache Build | 3-7-2007 | None | |
-| ✅ | 08172.07.03.08.2240.delta | Cache Build | 3-8-2007 | None | |
+| ✅ | 05241.06.09.21.1534.first_playt | Milestone | 9-21-2006 | None | |
+| ✅ | 06481.06.11.17.1330.alpha_relea | Multiplayer alpha | 11-17-2006 | Pimps at Sea | |
+| ✅ | 08117.07.03.07.1702.delta | Cache build | 3-7-2007 | None | |
+| ✅ | 08172.07.03.08.2240.delta | Cache build | 3-8-2007 | None | |
 | ✅ | 09699.07.05.01.1534.delta | Multiplayer beta | 5-1-2007 | None | |
 | ✅ | 10015.07.05.14.2217.delta | Multiplayer beta | 5-14-2007 | TU for 09699.07.05.01.1534.delta | |
 | ✅ | 11637.07.08.02.2348.release | | 8-2-2007 | None | |
 | ✅ | 11687.07.08.06.1504.main | DLC test | 8-6-2007 | DLC Halo3 Test DLC | |
 | ✅ | 11729.07.08.10.0021.main | Expo | 8-10-2007 | None | |
 | ✅ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | English | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | French | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | German | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Italian | |
-| ✅ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
-| ✅ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Portuguese | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Polish | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Mexican) | |
-| ❌ | 11855.07.08.20.2317.halo3_ship | Retail| 8-20-2007 | Spanish (Traditional) | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | French | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | German | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Italian | |
+| ✅ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Japanese | DCA473AC177F754913D2711077C91AB1 |
+| ✅ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Korean | DCA473AC177F754913D2711077C91AB1 |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Portuguese | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Polish | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Spanish (Mexican) | |
+| ❌ | 11855.07.08.20.2317.halo3_ship | Retail | 8-20-2007 | Spanish (Traditional) | |
 | ✅ | 11856.07.08.20.2332.release | Epsilon | 8-20-2007 | None | |
 
 ## Title updates
