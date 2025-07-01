@@ -277,7 +277,7 @@
 # Halo 3
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---------- | ----- | ------- |
-| ❌ | 02872.04.04.20.2002.e3_2006 | | 4-20-2006 | Deleted? [Tweet](https://i.imgur.com/RzWFmyx.jpeg) by @craftycodie | |
+| ❌ | 02872.06.04.20.2002.e3_2006 | | 4-20-2006 | Deleted? [Tweet](https://i.imgur.com/RzWFmyx.jpeg) by @craftycodie | |
 | ✅ | 05241.06.09.21.1534.first_playt | Milestone | 9-21-2006 | None | |
 | ✅ | 06481.06.11.17.1330.alpha_relea | Multiplayer alpha | 11-17-2006 | Pimps at Sea | |
 | ✅ | 08117.07.03.07.1702.delta | Cache build | 3-7-2007 | None | |
