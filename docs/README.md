@@ -412,7 +412,7 @@
 # Halo 2 Anniversary
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-14 | |
+| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-2014 | |
 
 # Halo: CE
 | Available | Build | Type | Date | Notes | 
@@ -450,7 +450,7 @@
 | ✅ | 11.1.554482 | Live | 9-17-2015 | None |
 | ✅ | 11.1.571698 | Live | 9-25-2015 | None |
 | ✅ | 11.1.571698 | Live | 10-1-2015 | None |
-| ✅ | 11.1.604673 | Live | 10-1502015 | None |
+| ✅ | 11.1.604673 | Live | 10-15-2015 | None |
 | ✅ | 12.1.700255 | cert_ms30_oct19 | 11-24-2015 | None |
 
 # Halo Fireteam Raven
