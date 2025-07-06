@@ -84,8 +84,8 @@
 | ✅ | 222249.22.06.08.1730-0.hirc | Release | 6-14-2022 | Drop-pod update |
 | ✅ | 223411.22.06.21.1557-0.hirc | Release | 6-29-2022 | Recharge map exploit patch |
 | ✅ | 224712.22.07.07.1218-3.hiflta | Flight | 7-15-2022 | Coop campaign IvoryDuck1194 branch test |
-| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Cross-core visors update |
-| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2922 | Half filesize (same build number as previous build) |
+| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2022 | Cross-core visors update |
+| ✅ | 226347.22.07.27.1709-0.hifltb | Release | 8-9-2022 | Half filesize (same build number as previous build) |
 | ✅ | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | October 25th patch |
 | ✅ | 228207.22.08.18.1605-0.hirel | Release | 10-25-2022 | Hotfix for october 25th patch |
 | ✅ | 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
