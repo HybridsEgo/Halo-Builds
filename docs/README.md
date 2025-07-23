@@ -412,7 +412,7 @@
 # Halo 2 Anniversary
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-2014 | |
+| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-2014 | [Image](https://i.imgur.com/KifWOpe.png) from MrPinball64 in [Alpha Archive](https://discord.com/channels/1298808861339287573/1298812180900216935/1377803522086539366)|
 
 # Halo: CE
 | Available | Build | Type | Date | Notes | 
