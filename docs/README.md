@@ -4,6 +4,7 @@
 | ✅ | May 22 2015 09:13:29 | Release |  | 5-22-2015 | MCC China |
 | ❌ | Unknown | Flight | 1.453.0.0 | 7-7-2018 | Swordflying restored in Campaign |
 | ❌ | Unknown | Flight | 1.507.0.0 | 8-15-2018 | Playtest for H1/H2/H2A/H3 |
+| ✅ | 2019.05.24.42544.1-Nightly | Flight | 1.818.0.0 | 5-24-2019 | [Cache debug with some Reach Campaign maps](https://www.youtube.com/watch?v=QtUIsTPPS0Q) |
 | ✅ | 2019.06.24.47037.2-Nightly | Flight | 1.887.0.0 | 6-28-2019 | HR |
 | ❌ | Unknown | Flight | 1.1106.0.0 | 10-3-2019 | Reach multiplayer crossplay test |
 | ✅ | 2019.08.20.56885.3-Nightly-Release | Flight | 1.1035.0.0 | 8-20-2019 | HR |
@@ -39,6 +40,7 @@
 | ✅ |     |     | 1.2398.0.0 |     |     |
 | ✅ |     |     | 1.2406.0.0 |     |     |
 | ✅ | 2021.07.16.132181.1-Nightly-Release | Release | 1.2448.0.0 | 7-16-2021 | None |
+| ✅ | 2021.08.31.136483.3-Nightly-Ring1 | Flight | 1.2512.0.0 | 8-31-2021 | Xbox One ver. |
 | ✅ | 2021.08.31.136483.3-Nightly-Ring1 | Flight | 1.2512.0.0 | 8-31-2021 | HR + H3 + ODST |
 | ✅ |     | Release | 1.2523.0.0 |     |     |
 | ✅ |     | Release | 1.2580.0.0 |     |     |
@@ -106,6 +108,7 @@
 | ✅ | 263865.25.03.19.1809-2.hi_1_10_0 | Release | 3-19-2025 | Operation: Forerunner |
 | ✅ | 264397.25.04.10.1801-1.hi_1_11_0 | Release | 4-10-2025 | Summer Update 2025 |
 | ✅ | 265293.25.05.20.1453-1.hi_1_11_0 | Release | 5-20-2025 | Operation: Legacy |
+| ✅ | 266630.25.07.17.1801-1.hi_1_12_0 | Release | 7-17-2025 | Operation: Shadows (Fall Update 2025) |
 
 # Halo Wars 2
 | Available | Build | Type | Date | Notes |
