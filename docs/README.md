@@ -399,11 +399,21 @@
 # Halo wars
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ✅ | 093106 | Alpha | 02-21-2008 | |
+| ✅ | 093106 | Alpha | 2-21-2008 | |
 | ✅ | | | 11-06-2008 | |
 | ✅ | | | 11-21-2008 | |
 | ✅ | 153945 | | 12-12-2008 | |
 | ✅ | | | 11-09-2009 | Bonfire Studios Test Game |
+
+# Halo wars Definitive Edition
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 1.0.666.1 | Beta | 7-7-2016 | Xbox One |
+| ✅ | 1.9368.1.0 | Beta | 9-2-2016 | UWP |
+| ✅ | 1.10991.1.10 | Beta | 12-2-2016 | UWP |
+| ✅ | 1.11044.0.0 | Beta | 12-7-2016 | Xbox One |
+| ✅ | 1.11470.2.0 | Beta | 3-23-2017 | Steam |
+
 
 # Halo 2
 | Available | Build | Type | Date | Notes | 
