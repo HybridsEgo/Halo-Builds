@@ -60,6 +60,7 @@
 | ✅ | 2023.09.01.177329.1-QFE1 | Release | 1.3272.0.0 | 9-1-2023 | None |
 | ✅ | 2024.01.03.177898.1-Release | Release | 1.3385.0.0 | 1-3-2024 | None |
 | ✅ | 2025.02.25.178468.1-Release | Release | 1.3495.0.0 | 2-25-2025 | February Update (EAC Patch) |
+| ✅ | 2025.08.16.178512.1-Release | Release | 1.3528.0.0 | 9-17-2025 | Cross-platform matchmaking fix | 
 
 
 
