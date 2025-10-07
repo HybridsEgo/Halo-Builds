@@ -111,6 +111,7 @@
 | ✅ | 265293.25.05.20.1453-1.hi_1_11_0 | Release | 5-20-2025 | Operation: Legacy |
 | ✅ | 266630.25.07.17.1801-1.hi_1_12_0 | Release | 7-17-2025 | Operation: Shadows (Fall Update 2025) |
 | ✅ | 267196.25.08.12.1849-1.hi_1_12_0 | Release | 8-12-2025 | Assault & theater bug fix |
+| ✅ | 267802.25.09.22.1648-3.hi_1_12_0 | Release | 9-22-2025 | Operation: Haloween II |
 
 # Halo Wars 2
 | Available | Build | Type | Date | Notes |
