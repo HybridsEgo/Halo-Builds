@@ -117,30 +117,6 @@
 | ✅ | 267196.25.08.12.1849-1.hi_1_12_0 | Release | 8-12-2025 | Assault & theater bug fix |
 | ✅ | 267802.25.09.22.1648-3.hi_1_12_0 | Release | 9-22-2025 | Operation: Haloween II |
 
-# Halo Wars 2
-| Available | Build | Type | Date | Notes |
-| --------- | ----- | ---- | ---- | ----- |
-| ✅ | 582479.blitz-beta | PC Beta | 12-20-2016 | None |
-| ✅ | 583925.blitz-beta | PC Beta | 1-5-2017 | None |
-
-# Halo 5
-| Available | Build | Type | Version | Date | Notes |
-| --------- | ----- | ---- | ------- | ---- | ----- |
-| ✅ | 66188.15.08.03.1256-0.main | playtest | 1.1.653.0 | 8-3-2015 | None |
-| ✅ | 68365.15.08.15.1546-0.main | playtest | 1.1.2830.0 | 8-15-2015 | None |
-| ✅ | 69046.15.08.19.1949-0.main | playtest | 1.1.3511.0 | 8-19-2015 | None |
-| ✅ | 70081.15.08.26.1149-0.main | rtx-takehome | 1.1.4546.0 | 8-26-2015 | None |
-| ✅ | 71044.15.09.01.2127-1.main | rtx-takehome | 1.1.5509.1 | 9-1-2015 | None |
-| ✅ | 71991.15.09.09.2310-1.main | rtx | 1.1.6456.1 | 9-9-2015 | None |
-| ✅ | 72604.15.09.15.1822-1.main | rtx-takehome | 1.1.7069.1 | 9-15-2015 | None |
-| ✅ | 73163.15.09.21.1904-0.main | rtx-takehome | 1.1.7628.0 | 9-21-2015 | None |
-| ✅ | 74061.15.09.30.1731-0.main | rtx-takehome | 1.1.8526.0 | 9-30-2015 | None |
-| ✅ | 74510.15.10.06.1304-3.main | rtx-takehome | 1.1.8975.3 | 10-6-2015 | None |
-| ✅ | 74973.15.10.13.1456-0.main | rtx-takehome | 1.1.9438.0 | 10-13-2015 | None |
-| ✅ | 74986.15.10.13.1727-0.main | rtx-takehome-all-mp-maps | 1.1.9451.0 | 10-13-2015 | None |
-| ✅ | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
-| ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
-
 # Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---- | ----- | ------- |
@@ -402,6 +378,24 @@
 > | 60AF2E00 | 00000027 | | |
 > | 6692453C | 00000013 | | |
 
+# Halo 5
+| Available | Build | Type | Version | Date | Notes |
+| --------- | ----- | ---- | ------- | ---- | ----- |
+| ✅ | 66188.15.08.03.1256-0.main | playtest | 1.1.653.0 | 8-3-2015 | None |
+| ✅ | 68365.15.08.15.1546-0.main | playtest | 1.1.2830.0 | 8-15-2015 | None |
+| ✅ | 69046.15.08.19.1949-0.main | playtest | 1.1.3511.0 | 8-19-2015 | None |
+| ✅ | 70081.15.08.26.1149-0.main | rtx-takehome | 1.1.4546.0 | 8-26-2015 | None |
+| ✅ | 71044.15.09.01.2127-1.main | rtx-takehome | 1.1.5509.1 | 9-1-2015 | None |
+| ✅ | 71991.15.09.09.2310-1.main | rtx | 1.1.6456.1 | 9-9-2015 | None |
+| ✅ | 72604.15.09.15.1822-1.main | rtx-takehome | 1.1.7069.1 | 9-15-2015 | None |
+| ✅ | 73163.15.09.21.1904-0.main | rtx-takehome | 1.1.7628.0 | 9-21-2015 | None |
+| ✅ | 74061.15.09.30.1731-0.main | rtx-takehome | 1.1.8526.0 | 9-30-2015 | None |
+| ✅ | 74510.15.10.06.1304-3.main | rtx-takehome | 1.1.8975.3 | 10-6-2015 | None |
+| ✅ | 74973.15.10.13.1456-0.main | rtx-takehome | 1.1.9438.0 | 10-13-2015 | None |
+| ✅ | 74986.15.10.13.1727-0.main | rtx-takehome-all-mp-maps | 1.1.9451.0 | 10-13-2015 | None |
+| ✅ | 75903.15.11.04.1138-0.main | Delta | 1.1.10368.0 | 11-4-2015 | None |
+| ✅ | Untracked | Delta | 1.1.11480.2 | N/A | None |
+
 # Halo wars
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
@@ -411,6 +405,12 @@
 | ✅ | 153945 | | 12-12-2008 | |
 | ✅ | | | 11-09-2009 | Bonfire Studios Test Game |
 
+# Halo Wars 2
+| Available | Build | Type | Date | Notes |
+| --------- | ----- | ---- | ---- | ----- |
+| ✅ | 582479.blitz-beta | PC Beta | 12-20-2016 | None |
+| ✅ | 583925.blitz-beta | PC Beta | 1-5-2017 | None |
+
 # Halo wars Definitive Edition
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
@@ -419,7 +419,6 @@
 | ✅ | 1.10991.1.10 | Beta | 12-2-2016 | UWP |
 | ✅ | 1.11044.0.0 | Beta | 12-7-2016 | Xbox One |
 | ✅ | 1.11470.2.0 | Beta | 3-23-2017 | Steam |
-
 
 # Halo 2
 | Available | Build | Type | Date | Notes | 
