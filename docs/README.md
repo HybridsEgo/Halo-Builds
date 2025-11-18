@@ -116,6 +116,7 @@
 | ✅ | 266630.25.07.17.1801-1.hi_1_12_0 | Release | 7-17-2025 | Operation: Shadows (Fall Update 2025) |
 | ✅ | 267196.25.08.12.1849-1.hi_1_12_0 | Release | 8-12-2025 | Assault & theater bug fix |
 | ✅ | 267802.25.09.22.1648-3.hi_1_12_0 | Release | 9-22-2025 | Operation: Haloween II |
+| ✅ | 268411.25.10.26.1801-0.hi_1_13_0 | Release | 10-26-2025 | Operation: Infinite |
 
 # Halo: Reach
 | Available | Build | Type | Date | Notes | MediaId |
