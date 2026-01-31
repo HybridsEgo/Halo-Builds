@@ -77,7 +77,11 @@
 | ✅ | 199229.21.07.20.0001-5.flt002int | Flight | 8-2-2021 | 8892607067602386755 (Thanks for playing! readme.txt) |
 | ✅ | 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | MGS Test App 6 Tech Preview |
 | ✅ | 202700.21.09.06.0001-2.hiflta | Flight | 9-30-2021 | 8606614782923558858 Alt |
-| ✅ | 204822.21.10.07.1331-0.P4Main | *E3 Lumu | 10-7-2021 | *Allegedly a developer E3 build that was accidentally uploaded |
+| ✅ | 204644.21.10.05.0802-1.p4main | p4main | 10-5-2021 | Private manifest |
+| ✅ | 204822.21.10.07.1331-0.p4main | Lumu | 10-7-2021 | Private manifest? was released in AA forever ago...|
+| ✅ | 204822.21.10.07.1331-2.p4main | p4main | 10-7-2021 | Private manifest |
+| ✅ | 206138.21.10.26.2201-1.p4main | p4main | 10-26-2021 | Private manifest |
+| ✅ | 206210.21.10.27.2103-1.hiflta | QA | 10-27-2021 | Private manifest |
 | ✅ | 207196.21.11.11.1058-0.hifltb | Beta | 11-15-2021 | 20th anniversary beta |
 | ✅ | 207500.21.11.16.1450-1.hifltb | Beta | 11-19-2021 | 20th anniversary beta fix |
 | ✅ | 207952.21.11.23.0826-1.hiflta | Release | 12-8-2021 | Campaign release |
@@ -98,8 +102,14 @@
 | ✅ | 233662.22.10.26.1110-4.hiflta | Release | 11-26-2022 | Forge and network campaign coop update |
 | ✅ | 235516.22.11.21.2002-0.hifltc | Release | 12-6-2022 | CGB update |
 | ✅ | 236112.22.12.01.1408-2.hifltc | Release | 12-1-2022 | None |
-| ✅ | 238744.23.01.19.2003-2.hifltc | Release | 1-19-2023| None |
+| ✅ | 238744.23.01.19.2003-2.hifltc | Release | 1-19-2023 | None |
+| ✅ | 238900.23.01.23.1141-0.hiflta | QA | 1-23-2023 | Private manifest |
+| ✅ | 239052.23.01.25.1556-1.hiflta | QA | 1-25-2023 | Private manifest |
+| ✅ | 239135.23.01.26.1752-1.hiflta | QA | 1-26-2023 | Private manifest |
+| ✅ | 239208.23.01.27.1858-1.hiflta | QA | 1-27-2023 | Private manifest |
+| ✅ | 239488.23.02.02.1137-1.hiflta | QA | 2-2-2023 | Private manifest |
 | ✅ | 240518.23.02.22.2011-0.hifltb | Release | 2-22-2023 | Season 3 |
+| ✅ | 240650.23.02.24.2103-3.hiflta | QA | 1-24-2023 | Private manifest |
 | ✅ | 241251.23.03.08.1725-3.hifltb | Release | 3-8-2023 | Season 3 QoL |
 | ✅ | 243134.23.04.11.1534-4.hifltc | Release | 4-11-2023 | None |
 | ✅ | 245613.23.06.01.1708-0.hiflta | Release | 6-1-2023 | Season 4 |
