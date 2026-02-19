@@ -274,7 +274,7 @@
 # Halo 3
 | Available | Build | Type | Date | Notes | MediaId |
 | --------- | ----- | ---- | ---------- | ----- | ------- |
-| ❌ | 02872.06.04.20.2002.e3_2006 | | 4-20-2006 | Deleted? [Tweet](https://i.imgur.com/RzWFmyx.jpeg) by @craftycodie | |
+| ❌ | 02872.06.04.20.2002.e3_2006 | | 4-20-2006 | [Deleted tweet?](https://i.imgur.com/RzWFmyx.jpeg) by @craftycodie | |
 | ✅ | 05241.06.09.21.1534.first_playt | Milestone | 9-21-2006 | None | |
 | ✅ | 06481.06.11.17.1330.alpha_relea | Multiplayer alpha | 11-17-2006 | Pimps at Sea | |
 | ✅ | 08117.07.03.07.1702.delta | Cache build | 3-7-2007 | None | |
@@ -439,10 +439,15 @@
 | ✅ | | Multiplayer Beta | 6-28-2004 | |
 | ❌ | Pre-Cert 02.08.28.09214 | DLC Map prototype | 8-28-2004 | |
 
-# Halo 2 Anniversary
+# Halo 2 Anniversary (Groundhog)
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ❌ | 21659.14.04.17.1655.ca | Either Tag or Cache Build | 4-17-2014 | [Image](https://i.imgur.com/KifWOpe.png) from MrPinball64 in [Alpha Archive](https://discord.com/channels/1298808861339287573/1298812180900216935/1377803522086539366)|
+| ✅ | 21646.14.03.21.0841-2.ca | Debug | 3-21-2014 | |
+| ✅ | 21651.14.03.28.1525-3.ca | Debug | 3-28-2014 | |
+| ✅ | 21651.14.03.28.1525-7.ca | Debug | 3-28-2014 | |
+| ✅ | 21652.14.04.04.1153-3.ca | Debug | 4-4-2014 | |
+| ✅ | 21655.14.04.10.1321-3.ca | Debug | 4-10-2014 | |
+| ✅ | 21659.14.04.17.1655-1.ca | Debug | 4-17-2014 | [Alpha Archive Tease](https://discord.com/channels/1298808861339287573/1298812180900216935/1377803522086539366) |
 
 # Halo: CE
 | Available | Build | Type | Date | Notes | 
