@@ -2,6 +2,7 @@
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
 | ❌ | 2025.10.14.700371.2-Rel-i343-Meteorite-2510 | Beta | 10-14-2025 | HCS Worlds 2025 |
+| ❌ |   |   |   | [Unknown build test map](https://i.imgur.com/4Wjkz4L.png) |
 | ❌ |     | Flight | 6-8-2026 | Media Flight |
 
 # Halo: The Master Chief Collection
@@ -435,6 +436,7 @@
 # Halo 2
 | Available | Build | Type | Date | Notes | 
 | --------- | ----- | ---- | ---- | ----- |
+| ✅ | 02.05.11.2132 | E3 Demo | 2003 | Stencil |
 | ✅ | | Alpha | 1-7-2004 | |
 | ✅ | | (e3_04_6966) Multiplayer Alpha | 5-6-2004 | |
 | ✅ | | Multiplayer Beta | 6-28-2004 | |
