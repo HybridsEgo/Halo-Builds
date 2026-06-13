@@ -1,7 +1,7 @@
 # Halo: Campaign Evolved
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ❌ | 2025.10.14.700371.2-Rel-i343-Meteorite-2510 | Beta | 10-14-2025 | HCS Worlds 2025 |
+| ❌ | 2025.10.14.700371.2-Rel-i343-Meteorite-2510 | Beta | 10-14-2025 | [HCS Worlds 2025](https://i.imgur.com/aVdBV3K.jpeg) |
 | ❌ |   |   |   | [Unknown build test map](https://i.imgur.com/4Wjkz4L.png) |
 | ❌ |     | Flight | 6-8-2026 | Media Flight |
 
