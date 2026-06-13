@@ -1,7 +1,8 @@
 # Halo: Campaign Evolved
 | Available | Build | Type | Date | Notes |
 | --------- | ----- | ---- | ---- | ----- |
-| ❌ | 2025.10.14.700371.2-Rel-i343-Meteorite-2510 | Flight | 10-14-2025 | HCS Worlds 2025 |
+| ❌ | 2025.10.14.700371.2-Rel-i343-Meteorite-2510 | Beta | 10-14-2025 | HCS Worlds 2025 |
+| ❌ |     | Flight | 6-8-2026 | Media Flight |
 
 # Halo: The Master Chief Collection
 | Available | Build | Type | Version | Date | Notes |
